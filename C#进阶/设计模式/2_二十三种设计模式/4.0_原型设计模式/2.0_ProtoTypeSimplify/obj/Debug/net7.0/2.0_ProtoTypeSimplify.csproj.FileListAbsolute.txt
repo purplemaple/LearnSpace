@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\bin\Debug\net7.0\2.0_ProtoTypeSimplify.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\bin\Debug\net7.0\2.0_ProtoTypeSimplify.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\bin\Debug\net7.0\2.0_ProtoTypeSimplify.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\bin\Debug\net7.0\2.0_ProtoTypeSimplify.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\bin\Debug\net7.0\2.0_ProtoTypeSimplify.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\2.0_ProtoTypeSimplify.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\2.0_ProtoTypeSimplify.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\2.0_ProtoTypeSimplify.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\2.0_ProtoTypeSimplify.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\2.0_ProtoTypeSimplify.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\2.0_ProtoTypeSimplify.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\refint\2.0_ProtoTypeSimplify.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\2.0_ProtoTypeSimplify.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\2.0_ProtoTypeSimplify.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\2.0_ProtoTypeSimplify\obj\Debug\net7.0\ref\2.0_ProtoTypeSimplify.dll

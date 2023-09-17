@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DependenceInversionPrincipleOptimize1/1.0.0": {
+        "runtime": {
+          "DependenceInversionPrincipleOptimize1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DependenceInversionPrincipleOptimize1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

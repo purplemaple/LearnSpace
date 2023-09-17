@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\bin\Debug\net7.0\Converter.exe
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\bin\Debug\net7.0\Converter.deps.json
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\bin\Debug\net7.0\Converter.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\bin\Debug\net7.0\Converter.dll
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\bin\Debug\net7.0\Converter.pdb
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\Converter.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\Converter.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\Converter.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\Converter.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\Converter.dll
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\refint\Converter.dll
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\Converter.pdb
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\Converter.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\实用代码\2.0_枚举值转换器\Converter\obj\Debug\net7.0\ref\Converter.dll

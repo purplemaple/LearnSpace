@@ -1,0 +1,10 @@
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\bin\Debug\4.0_EventExample_4.exe.config
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\bin\Debug\4.0_EventExample_4.exe
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\bin\Debug\4.0_EventExample_4.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\obj\Debug\4.0_EventExample_4.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\obj\Debug\4.0_EventExample_4.csproj.SuggestedBindingRedirects.cache
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\obj\Debug\_4._0_EventExample_4.Properties.Resources.resources
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\obj\Debug\4.0_EventExample_4.csproj.GenerateResource.cache
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\obj\Debug\4.0_EventExample_4.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\obj\Debug\4.0_EventExample_4.exe
+E:\Code\C# for VS_Code\C#进阶\事件\4.0_EventExample_4\obj\Debug\4.0_EventExample_4.pdb

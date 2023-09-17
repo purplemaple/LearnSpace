@@ -1,0 +1,72 @@
+﻿namespace _3._0_BadDelegateUsingExample
+{
+    /*
+     * 委托的缺点：
+     * 1. 是一种方法级别的紧耦合，往往是违反设计模式的，使用时要慎之又慎
+     * 2. 事可读性下降，debug难度增加
+     * 3. 当委托回调、异步调用、多线程纠缠在一起，就会让代码变得难以阅读和维护
+     * 4. 委托使用不当有可能造成内存泄漏和程序性能下降(委托会引用一个方法，如果这个方法是一个示例方法则必定隶属于一个对象。因此，当委托引用这个方法时，这个对象必需存在内存中不能释放)
+     */
+    /*
+     * 滥用委托写出的屎山代码
+     * 警示自己
+     */
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Operation opt1 = new Operation();
+            Operation opt2 = new Operation();
+            Operation opt3 = new Operation();
+
+            opt3.innerOperation = opt2;
+            opt2.innerOperation = opt1;
+
+            opt3.Operate(new object { }, null, null);
+            //问题1：如果传入的两个参数为 null，失败和成功的效果是什么？ 答：内层的操作会调用外层的回调
+            //问题2：如果传入的两个参数不为 null，会出现什么情况？      答：所有默认 callback 都会被"穿透性"屏蔽(无论哪一层成功或失败，调用的都是传入的回调)
+        }
+    }
+
+    class Operation
+    {
+        //默认的成功回调委托
+        public Action DefaultSuccessCallback { get; set;}
+        //默认的失败回调委托
+        public Action DefaultFailureCallback { get; set;}
+        // Operation 类里边还能再套一个 Operation
+        public Operation innerOperation { get; set;}
+
+        public object Operate(object input, Action successCallback, Action failureCallback)
+        {
+            //如果接收的成功回调和失败回调为空，则设置为默认的回调
+            if(successCallback == null)
+            {
+                successCallback = this.DefaultSuccessCallback;
+            }
+            if(failureCallback == null)
+            {
+                failureCallback = this.DefaultFailureCallback;
+            }
+
+            object result = null;
+            try
+            {
+                //调用内层 Operation 的方法，并把两个回调委托传进去
+                //注意，这里的两个回调已经被修改，不清楚是传入的回调还是默认回调
+                //当继续往内层调用时，innerOperation 还有 innerOperation，当执行到最后时，已经完全搞不清执行的到底是传入的回调还是默认回调了
+                result = this.innerOperation.Operate(input, successCallback, failureCallback);
+                //Do something here
+            }
+            catch
+            {
+                //当 try 抛异常时，执行失败回调
+                failureCallback();
+            }
+
+            //当try正常时，执行成功回调
+            successCallback();
+            return result;
+        }
+    }
+}

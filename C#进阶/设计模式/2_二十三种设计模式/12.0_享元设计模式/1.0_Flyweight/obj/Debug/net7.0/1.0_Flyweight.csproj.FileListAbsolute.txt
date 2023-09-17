@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\bin\Debug\net7.0\1.0_Flyweight.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\bin\Debug\net7.0\1.0_Flyweight.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\bin\Debug\net7.0\1.0_Flyweight.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\bin\Debug\net7.0\1.0_Flyweight.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\bin\Debug\net7.0\1.0_Flyweight.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\1.0_Flyweight.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\1.0_Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\1.0_Flyweight.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\1.0_Flyweight.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\1.0_Flyweight.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\1.0_Flyweight.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\refint\1.0_Flyweight.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\1.0_Flyweight.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\1.0_Flyweight.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\12.0_享元设计模式\1.0_Flyweight\obj\Debug\net7.0\ref\1.0_Flyweight.dll

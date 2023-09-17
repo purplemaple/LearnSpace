@@ -1,0 +1,112 @@
+﻿using System.Reflection;
+
+namespace SingletenPattern_Lazy
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+            //调用
+            LazyManSingle lazyManSingle1 = LazyManSingle.GetLazyManSingle();
+            LazyManSingle lazyManSingle2 = LazyManSingle.GetLazyManSingle();
+            Console.WriteLine(lazyManSingle1.GetHashCode());
+            Console.WriteLine(lazyManSingle2.GetHashCode());
+            */
+
+            /*
+            for(int i = 0; i < 10; i++)
+            {
+                new Thread(() => LazyManSingle.GetLazyManSingle()).Start();
+            }
+            */
+
+            //正常通过单例创建对象
+            LazyManSingle lazy1 = LazyManSingle.GetLazyManSingle();
+
+            /*
+             * 通过反射来破坏单例
+             */
+            Type t = Type.GetType("SingletenPattern_Lazy.LazyManSingle");
+            //获取私有的构造函数
+            ConstructorInfo[] cons = t.GetConstructors(BindingFlags.NonPublic | BindingFlags.Instance);
+            //执行构造函数
+            LazyManSingle lazy2 = (LazyManSingle)cons[0].Invoke(null);
+
+            Console.WriteLine(lazy1.GetHashCode());
+            Console.WriteLine(lazy2.GetHashCode());
+        }
+
+        /// <summary>
+        /// 懒汉式
+        /// 优点: 当你需要对象的时候再创建, 不会造成资源浪费
+        /// 缺陷: 存在线程安全问题
+        /// </summary>
+        public class LazyManSingle
+        {
+            //1. 私有化构造函数
+            private LazyManSingle() { }
+
+            /*
+             * 2. 声明静态字段, 存储我们唯一的对象实例
+             * 注意: 一定要用 volatile 关键字 => 防止指令重排
+             * 
+             * 使用 new 关键字时做的三件事:
+             * 1. 在内存中开辟空间
+             * 2. 执行对象的构造函数, 创建对象
+             * 3. 把对象的引用写入内存空间
+             * 
+             * CPU在执行 new 时, 可能发生指令重排, 不按123的顺序而按132的顺序执行
+             * 当线程 A 执行完 13, 准备执行 2 时, lazy 已经有地址, 但对象还未创建
+             * 这时线程 B 插入, 未通过 if(lazy == null) 判断, 直接 return lazy  =>  出现错误
+             */
+            private volatile static LazyManSingle lazy;
+
+            //创建锁
+            private static object o = new object();
+
+            //3. 通过方法, 创建对象并返回
+            public static LazyManSingle GetLazyManSingle()
+            {
+                /*
+                 * 在调用方法之前要判断, 如果没有类的实例就创建再返回, 有则直接返回
+                 * 缺陷: 多线程下存在安全问题
+                 */
+                //return lazy ?? (lazy = new LazyManSingle());
+                if(lazy == null)
+                {
+                    lazy = new LazyManSingle();
+                }
+
+                
+                /*
+                 * 通过加锁来解决多线程安全问题
+                 * 缺陷: 不管实例是不是存在, 每次调用方法时, 所有线程都要来抢锁, 浪费资源
+                 */
+                lock (o)
+                {
+                    if (lazy == null)
+                    {
+                        lazy = new LazyManSingle();
+                    }
+                }
+
+                /*
+                 * 通过双重校验节约资源
+                 */
+                if(lazy == null)
+                {
+                    lock (o)
+                    {
+                        if (lazy == null)
+                        {
+                            lazy = new LazyManSingle();
+                        }
+                    }
+                }
+
+                return lazy;
+            }
+        }
+    }
+}

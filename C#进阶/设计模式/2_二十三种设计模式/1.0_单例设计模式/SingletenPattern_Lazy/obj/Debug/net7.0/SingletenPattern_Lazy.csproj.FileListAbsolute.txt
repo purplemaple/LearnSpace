@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\bin\Debug\net7.0\SingletenPattern_Lazy.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\bin\Debug\net7.0\SingletenPattern_Lazy.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\bin\Debug\net7.0\SingletenPattern_Lazy.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\bin\Debug\net7.0\SingletenPattern_Lazy.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\bin\Debug\net7.0\SingletenPattern_Lazy.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\SingletenPattern_Lazy.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\SingletenPattern_Lazy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\SingletenPattern_Lazy.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\SingletenPattern_Lazy.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\SingletenPattern_Lazy.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\SingletenPattern_Lazy.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\refint\SingletenPattern_Lazy.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\SingletenPattern_Lazy.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\SingletenPattern_Lazy.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\单例设计模式\SingletenPattern_Lazy\obj\Debug\net7.0\ref\SingletenPattern_Lazy.dll

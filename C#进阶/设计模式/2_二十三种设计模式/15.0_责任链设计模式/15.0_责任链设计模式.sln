@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.0_ChainOfResponsibilityIntro", "1.0_ChainOfResponsibilityIntro\1.0_ChainOfResponsibilityIntro.csproj", "{9422D131-1975-414A-AB51-EE8D32F853DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.0_ChainOfResponsibilityOptimize", "2.0_ChainOfResponsibilityOptimize\2.0_ChainOfResponsibilityOptimize.csproj", "{B5AE7F64-7F33-4FF8-B023-168A0FF13965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9422D131-1975-414A-AB51-EE8D32F853DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9422D131-1975-414A-AB51-EE8D32F853DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9422D131-1975-414A-AB51-EE8D32F853DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9422D131-1975-414A-AB51-EE8D32F853DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AE7F64-7F33-4FF8-B023-168A0FF13965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AE7F64-7F33-4FF8-B023-168A0FF13965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AE7F64-7F33-4FF8-B023-168A0FF13965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AE7F64-7F33-4FF8-B023-168A0FF13965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09651331-2A59-48D1-B186-DCF252367F99}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\bin\Debug\5.0_EventExample_5.exe.config
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\bin\Debug\5.0_EventExample_5.exe
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\bin\Debug\5.0_EventExample_5.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\obj\Debug\5.0_EventExample_5.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\obj\Debug\5.0_EventExample_5.csproj.SuggestedBindingRedirects.cache
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\obj\Debug\_5._0_EventExample_5.Form1.resources
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\obj\Debug\_5._0_EventExample_5.Properties.Resources.resources
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\obj\Debug\5.0_EventExample_5.csproj.GenerateResource.cache
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\obj\Debug\5.0_EventExample_5.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\obj\Debug\5.0_EventExample_5.exe
+E:\Code\C# for VS_Code\C#进阶\事件\5.0_EventExample_5\obj\Debug\5.0_EventExample_5.pdb

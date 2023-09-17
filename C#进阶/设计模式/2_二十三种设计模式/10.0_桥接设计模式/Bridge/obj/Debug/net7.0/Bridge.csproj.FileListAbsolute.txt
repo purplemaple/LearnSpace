@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\bin\Debug\net7.0\Bridge.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\bin\Debug\net7.0\Bridge.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\bin\Debug\net7.0\Bridge.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\bin\Debug\net7.0\Bridge.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\bin\Debug\net7.0\Bridge.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\Bridge.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\Bridge.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\Bridge.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\refint\Bridge.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\Bridge.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\Bridge.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\10.0_桥接设计模式\Bridge\obj\Debug\net7.0\ref\Bridge.dll

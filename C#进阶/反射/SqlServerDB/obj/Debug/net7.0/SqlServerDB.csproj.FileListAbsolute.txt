@@ -1,0 +1,12 @@
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\bin\Debug\net7.0\SqlServerDB.deps.json
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\bin\Debug\net7.0\SqlServerDB.dll
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\bin\Debug\net7.0\SqlServerDB.pdb
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\obj\Debug\net7.0\SqlServerDB.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\obj\Debug\net7.0\SqlServerDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\obj\Debug\net7.0\SqlServerDB.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\obj\Debug\net7.0\SqlServerDB.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\obj\Debug\net7.0\SqlServerDB.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\obj\Debug\net7.0\SqlServerDB.dll
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\obj\Debug\net7.0\refint\SqlServerDB.dll
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\obj\Debug\net7.0\SqlServerDB.pdb
+E:\Code\C# for VS_Code\C#进阶\反射\SqlServerDB\obj\Debug\net7.0\ref\SqlServerDB.dll

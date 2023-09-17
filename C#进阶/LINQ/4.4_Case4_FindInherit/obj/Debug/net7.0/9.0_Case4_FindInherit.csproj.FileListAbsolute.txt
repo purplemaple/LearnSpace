@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\bin\Debug\net7.0\9.0_Case4_FindInherit.exe
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\bin\Debug\net7.0\9.0_Case4_FindInherit.deps.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\bin\Debug\net7.0\9.0_Case4_FindInherit.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\bin\Debug\net7.0\9.0_Case4_FindInherit.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\bin\Debug\net7.0\9.0_Case4_FindInherit.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\9.0_Case4_FindInherit.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\9.0_Case4_FindInherit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\9.0_Case4_FindInherit.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\9.0_Case4_FindInherit.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\9.0_Case4_FindInherit.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\9.0_Case4_FindInherit.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\refint\9.0_Case4_FindInherit.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\9.0_Case4_FindInherit.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\9.0_Case4_FindInherit.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\9.0_Case4_FindInherit\obj\Debug\net7.0\ref\9.0_Case4_FindInherit.dll

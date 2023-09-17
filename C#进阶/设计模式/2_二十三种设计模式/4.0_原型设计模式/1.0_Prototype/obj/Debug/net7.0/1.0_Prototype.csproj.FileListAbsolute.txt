@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\bin\Debug\net7.0\1.0_Prototype.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\bin\Debug\net7.0\1.0_Prototype.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\bin\Debug\net7.0\1.0_Prototype.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\bin\Debug\net7.0\1.0_Prototype.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\bin\Debug\net7.0\1.0_Prototype.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\1.0_Prototype.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\1.0_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\1.0_Prototype.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\1.0_Prototype.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\1.0_Prototype.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\1.0_Prototype.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\refint\1.0_Prototype.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\1.0_Prototype.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\1.0_Prototype.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\4.0_原型设计模式\1.0_Prototype\obj\Debug\net7.0\ref\1.0_Prototype.dll

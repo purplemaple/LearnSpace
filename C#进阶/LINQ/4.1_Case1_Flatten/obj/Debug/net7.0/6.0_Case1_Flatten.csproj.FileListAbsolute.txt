@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\bin\Debug\net7.0\6.0_Case1_Flatten.exe
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\bin\Debug\net7.0\6.0_Case1_Flatten.deps.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\bin\Debug\net7.0\6.0_Case1_Flatten.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\bin\Debug\net7.0\6.0_Case1_Flatten.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\bin\Debug\net7.0\6.0_Case1_Flatten.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\6.0_Case1_Flatten.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\6.0_Case1_Flatten.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\6.0_Case1_Flatten.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\6.0_Case1_Flatten.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\6.0_Case1_Flatten.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\6.0_Case1_Flatten.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\refint\6.0_Case1_Flatten.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\6.0_Case1_Flatten.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\6.0_Case1_Flatten.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\6.0_Case1_Flatten\obj\Debug\net7.0\ref\6.0_Case1_Flatten.dll

@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\bin\Debug\net7.0\OpenAndClose.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\bin\Debug\net7.0\OpenAndClose.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\bin\Debug\net7.0\OpenAndClose.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\bin\Debug\net7.0\OpenAndClose.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\bin\Debug\net7.0\OpenAndClose.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\OpenAndClose.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\OpenAndClose.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\OpenAndClose.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\OpenAndClose.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\OpenAndClose.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\OpenAndClose.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\refint\OpenAndClose.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\OpenAndClose.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\OpenAndClose.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndClose\obj\Debug\net7.0\ref\OpenAndClose.dll

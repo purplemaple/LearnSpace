@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\bin\Debug\net7.0\1.5_AbstractFactoryCase.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\bin\Debug\net7.0\1.5_AbstractFactoryCase.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\bin\Debug\net7.0\1.5_AbstractFactoryCase.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\bin\Debug\net7.0\1.5_AbstractFactoryCase.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\bin\Debug\net7.0\1.5_AbstractFactoryCase.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\1.5_AbstractFactoryCase.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\1.5_AbstractFactoryCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\1.5_AbstractFactoryCase.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\1.5_AbstractFactoryCase.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\1.5_AbstractFactoryCase.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\1.5_AbstractFactoryCase.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\refint\1.5_AbstractFactoryCase.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\1.5_AbstractFactoryCase.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\1.5_AbstractFactoryCase.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1.5_AbstractFactoryCase\obj\Debug\net7.0\ref\1.5_AbstractFactoryCase.dll

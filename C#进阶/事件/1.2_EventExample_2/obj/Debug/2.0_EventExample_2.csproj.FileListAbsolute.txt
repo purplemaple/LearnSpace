@@ -1,0 +1,10 @@
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\bin\Debug\2.0_EventExample_2.exe.config
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\bin\Debug\2.0_EventExample_2.exe
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\bin\Debug\2.0_EventExample_2.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\obj\Debug\2.0_EventExample_2.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\obj\Debug\2.0_EventExample_2.csproj.SuggestedBindingRedirects.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\obj\Debug\_2._0_EventExample_2.Properties.Resources.resources
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\obj\Debug\2.0_EventExample_2.csproj.GenerateResource.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\obj\Debug\2.0_EventExample_2.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\obj\Debug\2.0_EventExample_2.exe
+E:\Code\C# for VS_Code\C#进阶\事件\2.0_EventExample_2\obj\Debug\2.0_EventExample_2.pdb

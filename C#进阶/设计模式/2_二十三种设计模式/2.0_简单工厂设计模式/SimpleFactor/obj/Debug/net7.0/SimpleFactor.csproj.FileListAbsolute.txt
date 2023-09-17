@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\bin\Debug\net7.0\SimpleFactor.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\bin\Debug\net7.0\SimpleFactor.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\bin\Debug\net7.0\SimpleFactor.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\bin\Debug\net7.0\SimpleFactor.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\bin\Debug\net7.0\SimpleFactor.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\SimpleFactor.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\SimpleFactor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\SimpleFactor.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\SimpleFactor.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\SimpleFactor.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\SimpleFactor.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\refint\SimpleFactor.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\SimpleFactor.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\SimpleFactor.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\简单工厂设计模式\SimpleFactor\obj\Debug\net7.0\ref\SimpleFactor.dll

@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\bin\Debug\net7.0\CompositeReuse.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\bin\Debug\net7.0\CompositeReuse.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\bin\Debug\net7.0\CompositeReuse.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\bin\Debug\net7.0\CompositeReuse.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\bin\Debug\net7.0\CompositeReuse.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\CompositeReuse.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\CompositeReuse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\CompositeReuse.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\CompositeReuse.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\CompositeReuse.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\CompositeReuse.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\refint\CompositeReuse.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\CompositeReuse.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\CompositeReuse.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\7_合成复用原则\CompositeReuse\obj\Debug\net7.0\ref\CompositeReuse.dll

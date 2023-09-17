@@ -1,0 +1,14 @@
+﻿/*
+ * 延迟执行与消耗：指程序运行到 LINQ 语句时并不会立即执行，而是当消耗时(需要用到 LINQ 语句的结果时)才会延迟执行 LINQ 语句
+ */
+
+List<int> lst = new() { 1, 2, 3, 4, 5 };
+
+var query = lst.Select(x =>
+{
+    Thread.Sleep(500);  //模拟耗时久的操作
+    return x * x;
+});
+
+Console.WriteLine("finish");
+//运行结果显示，finish 直接被打印，而没有休眠 500 毫秒，说明 LINQ 语句没有执行

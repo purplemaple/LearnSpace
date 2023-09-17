@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\bin\Debug\net7.0\2.5_NormalizeEventExample.exe
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\bin\Debug\net7.0\2.5_NormalizeEventExample.deps.json
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\bin\Debug\net7.0\2.5_NormalizeEventExample.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\bin\Debug\net7.0\2.5_NormalizeEventExample.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\bin\Debug\net7.0\2.5_NormalizeEventExample.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\2.5_NormalizeEventExample.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\2.5_NormalizeEventExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\2.5_NormalizeEventExample.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\2.5_NormalizeEventExample.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\2.5_NormalizeEventExample.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\2.5_NormalizeEventExample.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\refint\2.5_NormalizeEventExample.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\2.5_NormalizeEventExample.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\2.5_NormalizeEventExample.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.5_NormalizeEventExample\obj\Debug\net7.0\ref\2.5_NormalizeEventExample.dll

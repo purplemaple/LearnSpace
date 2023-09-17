@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\bin\Debug\net7.0\1.0_Adapter.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\bin\Debug\net7.0\1.0_Adapter.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\bin\Debug\net7.0\1.0_Adapter.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\bin\Debug\net7.0\1.0_Adapter.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\bin\Debug\net7.0\1.0_Adapter.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\1.0_Adapter.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\1.0_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\1.0_Adapter.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\1.0_Adapter.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\1.0_Adapter.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\1.0_Adapter.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\refint\1.0_Adapter.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\1.0_Adapter.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\1.0_Adapter.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\6.0_适配器设计模式\1.0_Adapter\obj\Debug\net7.0\ref\1.0_Adapter.dll

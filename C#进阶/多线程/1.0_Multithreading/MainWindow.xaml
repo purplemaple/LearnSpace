@@ -1,0 +1,44 @@
+﻿<Window x:Class="_1._0_Multithreading.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1._0_Multithreading"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="500" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <GroupBox Grid.Row="0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="0" Width="80" Height="30" Margin="5"
+                        Content="同步" 
+                        Command="{Binding SyncLoadCommand}" />
+                <Button Grid.Column="1" Width="80" Height="30" Margin="5"
+                        Content="异步" 
+                        Command="{Binding AsyncLoadCommand}"/>
+                <Button Grid.Column="2" Width="80" Height="30" Margin="5"
+                        Content="并发" 
+                        Command="{Binding ConCurrencyAsyncCommand}"/>
+                <Button Grid.Column="3" Width="80" Height="30" Margin="5"
+                        Content="异步回调" 
+                        Command="{Binding AsyncCallbackCommand}"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox Grid.Row="1">
+            <TextBox IsReadOnly="True"
+                     Text="{Binding ResultText, UpdateSourceTrigger=PropertyChanged}"/>
+        </GroupBox>
+    </Grid>
+</Window>

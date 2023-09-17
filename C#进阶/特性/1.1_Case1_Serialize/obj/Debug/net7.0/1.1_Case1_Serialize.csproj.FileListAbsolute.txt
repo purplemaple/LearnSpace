@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\bin\Debug\net7.0\1.1_Case1_Serialize.exe
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\bin\Debug\net7.0\1.1_Case1_Serialize.deps.json
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\bin\Debug\net7.0\1.1_Case1_Serialize.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\bin\Debug\net7.0\1.1_Case1_Serialize.dll
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\bin\Debug\net7.0\1.1_Case1_Serialize.pdb
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\1.1_Case1_Serialize.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\1.1_Case1_Serialize.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\1.1_Case1_Serialize.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\1.1_Case1_Serialize.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\1.1_Case1_Serialize.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\1.1_Case1_Serialize.dll
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\refint\1.1_Case1_Serialize.dll
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\1.1_Case1_Serialize.pdb
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\1.1_Case1_Serialize.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\特性\1.1_Case1_Serialize\obj\Debug\net7.0\ref\1.1_Case1_Serialize.dll

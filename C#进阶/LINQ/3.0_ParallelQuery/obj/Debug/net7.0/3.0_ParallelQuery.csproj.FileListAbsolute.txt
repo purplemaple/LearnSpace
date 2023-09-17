@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\bin\Debug\net7.0\3.0_ParallelQuery.exe
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\bin\Debug\net7.0\3.0_ParallelQuery.deps.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\bin\Debug\net7.0\3.0_ParallelQuery.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\bin\Debug\net7.0\3.0_ParallelQuery.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\bin\Debug\net7.0\3.0_ParallelQuery.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\3.0_ParallelQuery.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\3.0_ParallelQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\3.0_ParallelQuery.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\3.0_ParallelQuery.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\3.0_ParallelQuery.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\3.0_ParallelQuery.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\refint\3.0_ParallelQuery.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\3.0_ParallelQuery.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\3.0_ParallelQuery.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_ParallelQuery\obj\Debug\net7.0\ref\3.0_ParallelQuery.dll

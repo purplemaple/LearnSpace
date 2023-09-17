@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5J/dpRpATd+8xQlBzNIhIucdjCKP0YurqyM4f6wsc3lh9D0mnDeCklp5MO8/iqgI6/XJf84jz+orR/FuEcKDSA==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\1.0_Multithreading\\1.0_Multithreading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

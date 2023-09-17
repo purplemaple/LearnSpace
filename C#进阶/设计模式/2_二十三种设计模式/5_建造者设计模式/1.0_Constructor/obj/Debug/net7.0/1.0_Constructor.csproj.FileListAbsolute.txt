@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\bin\Debug\net7.0\1.0_Constructor.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\bin\Debug\net7.0\1.0_Constructor.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\bin\Debug\net7.0\1.0_Constructor.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\bin\Debug\net7.0\1.0_Constructor.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\bin\Debug\net7.0\1.0_Constructor.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\1.0_Constructor.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\1.0_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\1.0_Constructor.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\1.0_Constructor.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\1.0_Constructor.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\1.0_Constructor.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\refint\1.0_Constructor.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\1.0_Constructor.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\1.0_Constructor.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\5_建造者设计模式\1.0_Constructor\obj\Debug\net7.0\ref\1.0_Constructor.dll

@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\bin\Debug\net7.0\5.0_CommonMistake.exe
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\bin\Debug\net7.0\5.0_CommonMistake.deps.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\bin\Debug\net7.0\5.0_CommonMistake.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\bin\Debug\net7.0\5.0_CommonMistake.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\bin\Debug\net7.0\5.0_CommonMistake.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\5.0_CommonMistake.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\5.0_CommonMistake.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\5.0_CommonMistake.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\5.0_CommonMistake.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\5.0_CommonMistake.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\5.0_CommonMistake.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\refint\5.0_CommonMistake.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\5.0_CommonMistake.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\5.0_CommonMistake.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\5.0_CommonMistake\obj\Debug\net7.0\ref\5.0_CommonMistake.dll

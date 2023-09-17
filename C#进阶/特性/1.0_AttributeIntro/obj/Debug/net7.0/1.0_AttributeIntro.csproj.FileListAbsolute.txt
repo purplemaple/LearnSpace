@@ -1,0 +1,17 @@
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\bin\Debug\net7.0\1.0_AttributeIntro.exe
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\bin\Debug\net7.0\1.0_AttributeIntro.deps.json
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\bin\Debug\net7.0\1.0_AttributeIntro.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\bin\Debug\net7.0\1.0_AttributeIntro.dll
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\bin\Debug\net7.0\1.0_AttributeIntro.pdb
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\1.0_AttributeIntro.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\1.0_AttributeIntro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\1.0_AttributeIntro.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\1.0_AttributeIntro.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\1.0_AttributeIntro.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\1.0_AttributeIntro.dll
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\refint\1.0_AttributeIntro.dll
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\1.0_AttributeIntro.pdb
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\1.0_AttributeIntro.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\ref\1.0_AttributeIntro.dll
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\bin\Debug\net7.0\LINQPad.Runtime.dll
+E:\Code\C# for VS_Code\C#进阶\特性\1.0_AttributeIntro\obj\Debug\net7.0\1.0_AttributeIntro.csproj.CopyComplete

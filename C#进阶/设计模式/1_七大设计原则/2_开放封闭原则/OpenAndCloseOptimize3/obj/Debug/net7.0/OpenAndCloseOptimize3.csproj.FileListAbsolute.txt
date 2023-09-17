@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\bin\Debug\net7.0\OpenAndCloseOptimize3.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\bin\Debug\net7.0\OpenAndCloseOptimize3.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\bin\Debug\net7.0\OpenAndCloseOptimize3.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\bin\Debug\net7.0\OpenAndCloseOptimize3.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\bin\Debug\net7.0\OpenAndCloseOptimize3.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\OpenAndCloseOptimize3.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\OpenAndCloseOptimize3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\OpenAndCloseOptimize3.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\OpenAndCloseOptimize3.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\OpenAndCloseOptimize3.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\OpenAndCloseOptimize3.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\refint\OpenAndCloseOptimize3.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\OpenAndCloseOptimize3.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\OpenAndCloseOptimize3.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\OpenAndCloseOptimize3\obj\Debug\net7.0\ref\OpenAndCloseOptimize3.dll

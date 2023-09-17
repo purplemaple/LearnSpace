@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkoXb/9iSkVjLxrqqJVd4bw+2CPBaBkfFtmjr+U5xoQSsoNezFEEg+ec7yODrCU+R9i7HZ9hFL6McQQInIK7qw==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\C# for VS_Code\\C#进阶\\特性\\1.0_AttributeIntro\\1.0_AttributeIntro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\linqpad.runtime\\7.7.15\\linqpad.runtime.7.7.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\bin\Debug\net7.0\3.0_SimpleCase3.exe
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\bin\Debug\net7.0\3.0_SimpleCase3.deps.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\bin\Debug\net7.0\3.0_SimpleCase3.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\bin\Debug\net7.0\3.0_SimpleCase3.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\bin\Debug\net7.0\3.0_SimpleCase3.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\3.0_SimpleCase3.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\3.0_SimpleCase3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\3.0_SimpleCase3.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\3.0_SimpleCase3.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\3.0_SimpleCase3.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\3.0_SimpleCase3.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\refint\3.0_SimpleCase3.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\3.0_SimpleCase3.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\3.0_SimpleCase3.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\3.0_SimpleCase3\obj\Debug\net7.0\ref\3.0_SimpleCase3.dll

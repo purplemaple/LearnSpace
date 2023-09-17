@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.1_SimpleEventExample_1", "1.1_SimpleEventExample_1\1.1_SimpleEventExample_1.csproj", "{89B53779-EEC1-4751-8A78-B7C85ED7DA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2_EventExample_2", "1.2_EventExample_2\1.2_EventExample_2.csproj", "{7A854A42-DCFB-4587-A9E1-3B93A618C483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.3_EventExample_3", "1.3_EventExample_3\1.3_EventExample_3.csproj", "{242E9084-10FB-4DE8-A752-EAFA6FDFDCF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4_EventExample_4", "1.4_EventExample_4\1.4_EventExample_4.csproj", "{4B201C0A-84FA-479C-999A-82866DD90079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.5_EventExample_5", "1.5_EventExample_5\1.5_EventExample_5.csproj", "{AB7FDD2B-D359-46C3-A82A-46E3C34F55F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.6_WPFEventExample_6", "1.6_WPFEventExample_6\1.6_WPFEventExample_6.csproj", "{A976B0DA-F282-424F-B8D1-1CC89A13B418}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.1_CustomEventExample_Complete", "2.1_CustomEventExample_Complete\2.1_CustomEventExample_Complete.csproj", "{A2DFC030-ED20-483F-BE18-CA18ACBAF8DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.2_CustomEventExample_Simplify", "2.2_CustomEventExample_Simplify\2.2_CustomEventExample_Simplify.csproj", "{36A0E78D-F1DB-4188-AD18-FCC47D6E65DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.3_NonEventExample", "2.3_NonEventExample\2.3_NonEventExample.csproj", "{DDD56D1E-9E7B-4484-9F03-C2067489D6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.4_EventHandler", "2.4_EventHandler\2.4_EventHandler.csproj", "{1FFB8210-8A65-4779-B6B2-9B500DA51FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.5_NormalizeEventExample", "2.5_NormalizeEventExample\2.5_NormalizeEventExample.csproj", "{889A2549-5BDB-4B58-9F66-B0B3B9B719D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B53779-EEC1-4751-8A78-B7C85ED7DA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B53779-EEC1-4751-8A78-B7C85ED7DA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B53779-EEC1-4751-8A78-B7C85ED7DA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B53779-EEC1-4751-8A78-B7C85ED7DA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A854A42-DCFB-4587-A9E1-3B93A618C483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A854A42-DCFB-4587-A9E1-3B93A618C483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A854A42-DCFB-4587-A9E1-3B93A618C483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A854A42-DCFB-4587-A9E1-3B93A618C483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242E9084-10FB-4DE8-A752-EAFA6FDFDCF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242E9084-10FB-4DE8-A752-EAFA6FDFDCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242E9084-10FB-4DE8-A752-EAFA6FDFDCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242E9084-10FB-4DE8-A752-EAFA6FDFDCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B201C0A-84FA-479C-999A-82866DD90079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B201C0A-84FA-479C-999A-82866DD90079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B201C0A-84FA-479C-999A-82866DD90079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B201C0A-84FA-479C-999A-82866DD90079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7FDD2B-D359-46C3-A82A-46E3C34F55F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7FDD2B-D359-46C3-A82A-46E3C34F55F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7FDD2B-D359-46C3-A82A-46E3C34F55F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7FDD2B-D359-46C3-A82A-46E3C34F55F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A976B0DA-F282-424F-B8D1-1CC89A13B418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A976B0DA-F282-424F-B8D1-1CC89A13B418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A976B0DA-F282-424F-B8D1-1CC89A13B418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A976B0DA-F282-424F-B8D1-1CC89A13B418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DFC030-ED20-483F-BE18-CA18ACBAF8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DFC030-ED20-483F-BE18-CA18ACBAF8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DFC030-ED20-483F-BE18-CA18ACBAF8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DFC030-ED20-483F-BE18-CA18ACBAF8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A0E78D-F1DB-4188-AD18-FCC47D6E65DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A0E78D-F1DB-4188-AD18-FCC47D6E65DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A0E78D-F1DB-4188-AD18-FCC47D6E65DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A0E78D-F1DB-4188-AD18-FCC47D6E65DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD56D1E-9E7B-4484-9F03-C2067489D6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD56D1E-9E7B-4484-9F03-C2067489D6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD56D1E-9E7B-4484-9F03-C2067489D6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD56D1E-9E7B-4484-9F03-C2067489D6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FFB8210-8A65-4779-B6B2-9B500DA51FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFB8210-8A65-4779-B6B2-9B500DA51FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFB8210-8A65-4779-B6B2-9B500DA51FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFB8210-8A65-4779-B6B2-9B500DA51FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889A2549-5BDB-4B58-9F66-B0B3B9B719D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889A2549-5BDB-4B58-9F66-B0B3B9B719D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889A2549-5BDB-4B58-9F66-B0B3B9B719D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889A2549-5BDB-4B58-9F66-B0B3B9B719D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49F7B279-5F86-42C7-B43E-2853DACCEE9F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\bin\Debug\net7.0\1_AbstractFactory.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\bin\Debug\net7.0\1_AbstractFactory.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\bin\Debug\net7.0\1_AbstractFactory.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\bin\Debug\net7.0\1_AbstractFactory.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\bin\Debug\net7.0\1_AbstractFactory.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\1_AbstractFactory.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\1_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\1_AbstractFactory.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\1_AbstractFactory.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\1_AbstractFactory.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\1_AbstractFactory.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\refint\1_AbstractFactory.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\1_AbstractFactory.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\1_AbstractFactory.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\3_抽象工厂设计模式\1_AbstractFactory\obj\Debug\net7.0\ref\1_AbstractFactory.dll

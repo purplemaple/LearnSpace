@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\bin\Debug\net7.0\1.0_LINQIntro.exe
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\bin\Debug\net7.0\1.0_LINQIntro.deps.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\bin\Debug\net7.0\1.0_LINQIntro.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\bin\Debug\net7.0\1.0_LINQIntro.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\bin\Debug\net7.0\1.0_LINQIntro.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\1.0_LINQIntro.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\1.0_LINQIntro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\1.0_LINQIntro.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\1.0_LINQIntro.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\1.0_LINQIntro.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\1.0_LINQIntro.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\refint\1.0_LINQIntro.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\1.0_LINQIntro.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\1.0_LINQIntro.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\1.0_LINQIntro\obj\Debug\net7.0\ref\1.0_LINQIntro.dll

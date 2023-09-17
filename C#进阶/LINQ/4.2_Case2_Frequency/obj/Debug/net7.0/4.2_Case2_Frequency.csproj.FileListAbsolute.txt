@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\bin\Debug\net7.0\4.2_Case2_Frequency.exe
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\bin\Debug\net7.0\4.2_Case2_Frequency.deps.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\bin\Debug\net7.0\4.2_Case2_Frequency.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\bin\Debug\net7.0\4.2_Case2_Frequency.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\bin\Debug\net7.0\4.2_Case2_Frequency.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\4.2_Case2_Frequency.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\4.2_Case2_Frequency.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\4.2_Case2_Frequency.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\4.2_Case2_Frequency.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\4.2_Case2_Frequency.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\4.2_Case2_Frequency.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\refint\4.2_Case2_Frequency.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\4.2_Case2_Frequency.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\4.2_Case2_Frequency.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.2_Case2_Frequency\obj\Debug\net7.0\ref\4.2_Case2_Frequency.dll

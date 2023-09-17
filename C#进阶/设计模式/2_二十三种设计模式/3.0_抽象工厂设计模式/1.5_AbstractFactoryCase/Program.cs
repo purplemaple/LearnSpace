@@ -1,0 +1,286 @@
+﻿using static _1._5_AbstractFactoryCase.Program;
+
+namespace _1._5_AbstractFactoryCase
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //练习: 更新数据库 SqlServer Mysql SQLite
+
+            /* 
+             * 模拟三种开发者:
+             * 1. 刚入行的小白:    不会使用设计模式
+             * 2. 入行2年的大白:   学过工厂方法设计模式
+             *      大白考虑到了未来可能要换数据库, 但没考虑到未来可能会增加表(初始演示时只有一个 User 表, 未来增加表时, 既要增加表的业务实现类, 又要增加表的工厂类, 类数量爆炸)
+             * 3. 入行5年的老白:   采用抽象工厂设计模式
+             */
+
+            User user = new User();
+            user.Name = "张三";
+            user.ID = 1;
+
+            Department department = new Department();
+            department.Name = "人事部";
+            department.ID = 1;
+
+            /*
+             * 入行小白
+            SqlServerUser sqlServerUser = new SqlServerUser();
+            sqlServerUser.InsertUser(user);
+            sqlServerUser.GetUser(user.ID);
+            */
+
+            /*
+             * 2年大白          
+            IFactoryUser factory = new MysqlFactoryUser();
+            IDatabaseUser databaseUser = factory.GetDatabaseUser();
+            */
+
+            /*
+             * 5年老白
+             * 注: 老白的业务接口及其实现类和大白一样要新增, 但老白的工厂接口及其实现类不需要新增, 而只需要扩充
+             */
+            IFactory factory = new SQLiteFactory(); //new MysqlFactory(); //new SqlServerFactory();     //更换数据库时, 只需要修改此段代码
+
+            IDatabaseUser databaseUser = factory.GetDatabaseUser();
+            databaseUser.InsertUser(user);
+            databaseUser.GetUser(user.ID);
+
+            IDatabaseDepartment databaseDepartment = factory.GetDatabaseDepartment();
+            databaseDepartment.InsertDepartment(department);
+            databaseDepartment.GetDepartment(department.ID);
+        }
+
+        public class User
+        {
+            public string Name { get; set; }
+            public int ID { get; set; }
+        }
+
+        public class Department
+        {
+            public string Name { get; set; }
+            public int ID { get; set; }
+        }
+
+        /*
+        public class SqlServerUser
+        {
+            public void InsertUser(User user)
+            {
+                Console.WriteLine("SqlServer插入了" + user.Name);
+            }
+            public User GetUser(int id)
+            {
+                Console.WriteLine("SqlServer获取了ID是" + id + "的用户");
+                return null;
+            }
+        }
+        */
+
+        #region 大白决定采用工厂模式开发, 最开始只有一张 User 表, 大白表示很轻松
+        public interface IDatabaseUser
+        {
+            void InsertUser(User user);
+            User GetUser(int id);
+        }
+
+        public class SqlServerUser : IDatabaseUser
+        {
+            public void InsertUser(User user)
+            {
+                Console.WriteLine("SqlServer插入了" + user.Name);
+            }
+            public User GetUser(int id)
+            {
+                Console.WriteLine("SqlServer获取了ID是" + id + "的用户");
+                return null;
+            }
+        }
+
+        public class MysqlUser : IDatabaseUser
+        {
+            public void InsertUser(User user)
+            {
+                Console.WriteLine("Mysql插入了" + user.Name);
+            }
+            public User GetUser(int id)
+            {
+                Console.WriteLine("Mysql获取了ID是" + id + "的用户");
+                return null;
+            }
+        }
+
+        public class SQLiteUser : IDatabaseUser
+        {
+            public void InsertUser(User user)
+            {
+                Console.WriteLine("SQLite插入了" + user.Name);
+            }
+            public User GetUser(int id)
+            {
+                Console.WriteLine("SQLite获取了ID是" + id + "的用户");
+                return null;
+            }
+        }
+        #endregion
+
+        #region 2年大白: 对于新加的 Department 表, 新增的业务实现类
+        public interface IDatabaseDepartment
+        {
+            void InsertDepartment(Department department);
+            Department GetDepartment(int id);
+        }
+
+        public class SqlServerDepartment : IDatabaseDepartment
+        {
+            public void InsertDepartment(Department department)
+            {
+                Console.WriteLine("SqlServer插入了" + department.Name);
+            }
+            public Department GetDepartment(int id)
+            {
+                Console.WriteLine("SqlServer获取了ID是" + id + "的部门");
+                return null;
+            }
+        }
+
+        public class MysqlDepartment : IDatabaseDepartment
+        {
+            public void InsertDepartment(Department department)
+            {
+                Console.WriteLine("Mysql插入了" + department.Name);
+            }
+            public Department GetDepartment(int id)
+            {
+                Console.WriteLine("Mysql获取了ID是" + id + "的部门");
+                return null;
+            }
+        }
+
+        public class SQLiteDepartment : IDatabaseDepartment
+        {
+            public void InsertDepartment(Department department)
+            {
+                Console.WriteLine("SQLite插入了" + department.Name);
+            }
+            public Department GetDepartment(int id)
+            {
+                Console.WriteLine("SQLite获取了ID是" + id + "的部门");
+                return null;
+            }
+        }
+        #endregion
+
+        /*
+        #region 大白在只有一张 User 表时写的业务接口, 和它的实现类. 大白表示很轻松
+        public interface IFactoryUser
+        {
+            IDatabaseUser GetDatabaseUser();        
+        }
+
+        public class SqlServerFactoryUser : IFactoryUser
+        {
+            public IDatabaseUser GetDatabaseUser()
+            {
+                return new SqlServerUser();
+            }
+        }
+
+        public class MysqlFactoryUser : IFactoryUser
+        {
+            public IDatabaseUser GetDatabaseUser()
+            {
+                return new MysqlUser();
+            }
+        }
+
+        public class SQLiteFactoryUser : IFactoryUser
+        {
+            public IDatabaseUser GetDatabaseUser()
+            {
+                return new SQLiteUser();
+            }
+        }
+        #endregion
+
+        #region 2年大白: 对于新加的 Department 表, 新增的工厂接口和它的实现类
+        public interface IFactoryDepartment
+        {
+            IDatabaseDepartment GetDatabaseDepartment();
+        }
+
+        public class SqlServerFactoryDepartment : IFactoryDepartment
+        {
+            public IDatabaseDepartment GetDatabaseDepartment()
+            {
+                return new SqlServerDepartment();
+            }
+        }
+
+        public class MysqlFactoryDepartment : IFactoryDepartment
+        {
+            public IDatabaseDepartment GetDatabaseDepartment()
+            {
+                return new MysqlDepartment();
+            }
+        }
+
+        public class SQLiteFactoryDepartment : IFactoryDepartment
+        {
+            public IDatabaseDepartment GetDatabaseDepartment()
+            {
+                return new SQLiteDepartment();
+            }
+        }
+        #endregion
+        */
+
+
+        /*
+         * 5年老白: 选择使用抽象工厂模式, 直接在工厂接口中新增方法, 直接在此接口中让同类型的工厂通过不同的方法创建
+         */
+        public interface IFactory
+        {
+            IDatabaseUser GetDatabaseUser();
+            IDatabaseDepartment GetDatabaseDepartment();
+        }
+
+        public class SqlServerFactory : IFactory
+        {
+            public IDatabaseUser GetDatabaseUser()
+            {
+                return new SqlServerUser();
+            }
+            public IDatabaseDepartment GetDatabaseDepartment()
+            {
+                return new SqlServerDepartment();
+            }
+        }
+
+        public class MysqlFactory : IFactory
+        {
+            public IDatabaseUser GetDatabaseUser()
+            {
+                return new MysqlUser();
+            }
+            public IDatabaseDepartment GetDatabaseDepartment()
+            {
+                return new MysqlDepartment();
+            }
+        }
+
+        public class SQLiteFactory : IFactory
+        {
+            public IDatabaseUser GetDatabaseUser()
+            {
+                return new SQLiteUser();
+            }
+            public IDatabaseDepartment GetDatabaseDepartment()
+            {
+                return new SQLiteDepartment();
+            }
+        }
+    }
+}

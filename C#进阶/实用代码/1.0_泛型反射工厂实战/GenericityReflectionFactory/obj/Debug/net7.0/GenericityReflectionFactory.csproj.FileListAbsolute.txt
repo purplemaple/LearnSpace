@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\bin\Debug\net7.0\GenericityReflectionFactory.exe
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\bin\Debug\net7.0\GenericityReflectionFactory.deps.json
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\bin\Debug\net7.0\GenericityReflectionFactory.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\bin\Debug\net7.0\GenericityReflectionFactory.dll
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\bin\Debug\net7.0\GenericityReflectionFactory.pdb
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\GenericityReflectionFactory.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\GenericityReflectionFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\GenericityReflectionFactory.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\GenericityReflectionFactory.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\GenericityReflectionFactory.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\GenericityReflectionFactory.dll
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\refint\GenericityReflectionFactory.dll
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\GenericityReflectionFactory.pdb
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\GenericityReflectionFactory.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\实用代码\1.0_泛型反射工厂实战\GenericityReflectionFactory\obj\Debug\net7.0\ref\GenericityReflectionFactory.dll

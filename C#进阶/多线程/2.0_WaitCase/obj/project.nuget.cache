@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PM9e1r9OlkelCLTAA/1zUDm65Z4F65dZ9/lNLvGJn8V96nwhUiDGcebjuUaRVOKgphsd+r9zHj9Jfu++8oY1CQ==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\2.0_WaitCase\\2.0_WaitCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

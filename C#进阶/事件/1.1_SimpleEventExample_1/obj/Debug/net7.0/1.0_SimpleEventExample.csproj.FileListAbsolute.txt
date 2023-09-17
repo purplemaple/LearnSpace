@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\bin\Debug\net7.0\1.0_SimpleEventExample.exe
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\bin\Debug\net7.0\1.0_SimpleEventExample.deps.json
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\bin\Debug\net7.0\1.0_SimpleEventExample.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\bin\Debug\net7.0\1.0_SimpleEventExample.dll
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\bin\Debug\net7.0\1.0_SimpleEventExample.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\1.0_SimpleEventExample.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\1.0_SimpleEventExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\1.0_SimpleEventExample.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\1.0_SimpleEventExample.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\1.0_SimpleEventExample.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\1.0_SimpleEventExample.dll
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\refint\1.0_SimpleEventExample.dll
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\1.0_SimpleEventExample.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\1.0_SimpleEventExample.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\事件\1.0_SimpleEventExample\obj\Debug\net7.0\ref\1.0_SimpleEventExample.dll

@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\bin\Debug\net7.0\Factory.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\bin\Debug\net7.0\Factory.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\bin\Debug\net7.0\Factory.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\bin\Debug\net7.0\Factory.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\bin\Debug\net7.0\Factory.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\Factory.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\Factory.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\Factory.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\Factory.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\Factory.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\refint\Factory.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\Factory.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\Factory.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\工厂设计模式\Factory\obj\Debug\net7.0\ref\Factory.dll

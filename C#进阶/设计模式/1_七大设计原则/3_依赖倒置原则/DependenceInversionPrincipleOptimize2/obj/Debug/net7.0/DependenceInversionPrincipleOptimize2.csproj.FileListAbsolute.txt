@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\bin\Debug\net7.0\DependenceInversionPrincipleOptimize2.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\bin\Debug\net7.0\DependenceInversionPrincipleOptimize2.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\bin\Debug\net7.0\DependenceInversionPrincipleOptimize2.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\bin\Debug\net7.0\DependenceInversionPrincipleOptimize2.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\bin\Debug\net7.0\DependenceInversionPrincipleOptimize2.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\DependenceInversionPrincipleOptimize2.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\DependenceInversionPrincipleOptimize2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\DependenceInversionPrincipleOptimize2.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\DependenceInversionPrincipleOptimize2.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\DependenceInversionPrincipleOptimize2.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\DependenceInversionPrincipleOptimize2.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\refint\DependenceInversionPrincipleOptimize2.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\DependenceInversionPrincipleOptimize2.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\DependenceInversionPrincipleOptimize2.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\依赖倒置原则\DependenceInversionPrinciple\DependenceInversionPrincipleOptimize2\obj\Debug\net7.0\ref\DependenceInversionPrincipleOptimize2.dll

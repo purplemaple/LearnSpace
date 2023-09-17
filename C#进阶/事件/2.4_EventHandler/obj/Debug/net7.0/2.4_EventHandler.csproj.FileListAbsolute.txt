@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\bin\Debug\net7.0\2.4_EventHandler.exe
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\bin\Debug\net7.0\2.4_EventHandler.deps.json
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\bin\Debug\net7.0\2.4_EventHandler.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\bin\Debug\net7.0\2.4_EventHandler.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\bin\Debug\net7.0\2.4_EventHandler.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\2.4_EventHandler.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\2.4_EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\2.4_EventHandler.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\2.4_EventHandler.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\2.4_EventHandler.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\2.4_EventHandler.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\refint\2.4_EventHandler.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\2.4_EventHandler.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\2.4_EventHandler.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.4_EventHandler\obj\Debug\net7.0\ref\2.4_EventHandler.dll

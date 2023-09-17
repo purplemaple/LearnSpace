@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\2.3_NonEventExample.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\2.3_NonEventExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\2.3_NonEventExample.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\2.3_NonEventExample.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\2.3_NonEventExample.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\bin\Debug\net7.0\2.3_NonEventExample.exe
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\bin\Debug\net7.0\2.3_NonEventExample.deps.json
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\bin\Debug\net7.0\2.3_NonEventExample.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\bin\Debug\net7.0\2.3_NonEventExample.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\bin\Debug\net7.0\2.3_NonEventExample.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\2.3_NonEventExample.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\refint\2.3_NonEventExample.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\2.3_NonEventExample.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\2.3_NonEventExample.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.3_NonEventExample\obj\Debug\net7.0\ref\2.3_NonEventExample.dll

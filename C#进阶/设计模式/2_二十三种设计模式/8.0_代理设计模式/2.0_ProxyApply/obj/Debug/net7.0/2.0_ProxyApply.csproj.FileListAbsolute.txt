@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\bin\Debug\net7.0\2.0_ProxyApply.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\bin\Debug\net7.0\2.0_ProxyApply.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\bin\Debug\net7.0\2.0_ProxyApply.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\bin\Debug\net7.0\2.0_ProxyApply.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\bin\Debug\net7.0\2.0_ProxyApply.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\2.0_ProxyApply.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\2.0_ProxyApply.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\2.0_ProxyApply.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\2.0_ProxyApply.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\2.0_ProxyApply.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\2.0_ProxyApply.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\refint\2.0_ProxyApply.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\2.0_ProxyApply.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\2.0_ProxyApply.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\8.0_代理设计模式\2.0_ProxyApply\obj\Debug\net7.0\ref\2.0_ProxyApply.dll

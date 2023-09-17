@@ -1,0 +1,140 @@
+﻿namespace OpenAndCloseOptimize3
+{
+    internal class Program
+    {
+        /*
+         * 注：封装、抽象不是目的，目的是封装变化
+         *    只有把变化封装了，我们的程序才能做到单一，才能做到开放封闭，才能做到高内聚、低耦合
+         */
+
+        static void Main(string[] args)
+        {
+            //在类中，将每一个方法都进行接口抽象也比较极端。所以根据实际的业务情况减少接口的封装
+
+            //创建存款对象
+            IBankClient bankClient = new TransferClient();
+
+            //创建业务员对象
+            BankStuff bankStuff = new BankStuff();
+
+            bankStuff.HandleProcess(bankClient);
+        }
+
+/*      //本类已作废
+        public class BankClient
+        {
+            public string BankType { get; set; }
+        }
+*/
+
+        /// <summary>
+        /// 银行柜员类
+        /// </summary>
+        public class BankStuff
+        {
+
+            //拿到接口引用
+            private IBankProcess _bankProcess;
+            public void HandleProcess(IBankClient bankClient)
+            {
+                //一坨switch可以删掉了
+
+                //用户端调用自己的GetBankProcess方法，返回我们的业务处理对象(IBankProcess)
+                _bankProcess = bankClient.GetBankProcess();
+                //业务处理对象，调用BankProcess执行业务操作方法
+                _bankProcess.BankProcess();
+            }
+        }
+
+        #region 客户端接口IBankClient和他的实现类
+        //面向抽象、面向接口编程
+        //通过抽象或者接口，封装变化
+        /// <summary>
+        /// 银行客户端接口
+        /// </summary>
+        public interface IBankClient
+        {
+            //1.封装的是变化
+            //2.变化的是什么？
+            //3.根据不同需求的用户，返回不同的处理对象/处理方法
+            IBankProcess GetBankProcess();
+        }
+
+        /// <summary>
+        /// 存款客户端
+        /// </summary>
+        public class DepositeClient : IBankClient
+        {
+            public IBankProcess GetBankProcess()
+            {
+                return new DepositeClass();
+            }
+        }
+
+        /// <summary>
+        /// 取款客户端
+        /// </summary>
+        public class DrawMoneyClient : IBankClient
+        {
+            public IBankProcess GetBankProcess()
+            {
+                return new DrawMoneyClass();
+            }
+        }
+
+        /// <summary>
+        /// 转账客户端
+        /// </summary>
+        public class TransferClient : IBankClient
+        {
+            public IBankProcess GetBankProcess()
+            {
+                return new TransferClass();
+            }
+        }
+        #endregion
+
+        #region 具体的业务处理接口IBankProcess和他的实现类
+        /// <summary>
+        /// 银行业务处理接口
+        /// </summary>
+        public interface IBankProcess
+        {
+            void BankProcess();
+        }
+
+        /// <summary>
+        /// 存款业务类
+        /// </summary>
+        public class DepositeClass : IBankProcess
+        {
+            public void BankProcess()
+            {
+                Console.WriteLine("存款");
+            }
+        }
+
+        /// <summary>
+        /// 取款业务类
+        /// </summary>
+        public class DrawMoneyClass : IBankProcess
+        {
+            public void BankProcess()
+            {
+                Console.WriteLine("取款");
+            }
+        }
+
+        /// <summary>
+        /// 转账业务类
+        /// </summary>
+        public class TransferClass : IBankProcess
+        {
+            public void BankProcess()
+            {
+                Console.WriteLine("转账");
+            }
+        }
+        #endregion
+    }
+}

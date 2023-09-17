@@ -1,0 +1,10 @@
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\bin\Debug\3.0_EventExample_3.exe.config
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\bin\Debug\3.0_EventExample_3.exe
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\bin\Debug\3.0_EventExample_3.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\obj\Debug\3.0_EventExample_3.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\obj\Debug\3.0_EventExample_3.csproj.SuggestedBindingRedirects.cache
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\obj\Debug\_3._0_EventExample_3.Properties.Resources.resources
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\obj\Debug\3.0_EventExample_3.csproj.GenerateResource.cache
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\obj\Debug\3.0_EventExample_3.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\obj\Debug\3.0_EventExample_3.exe
+E:\Code\C# for VS_Code\C#进阶\事件\3.0_EventExample_3\obj\Debug\3.0_EventExample_3.pdb

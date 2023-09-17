@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\bin\Debug\net7.0\DemeterPrincipleCase2Optimize1.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\bin\Debug\net7.0\DemeterPrincipleCase2Optimize1.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\bin\Debug\net7.0\DemeterPrincipleCase2Optimize1.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\bin\Debug\net7.0\DemeterPrincipleCase2Optimize1.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\bin\Debug\net7.0\DemeterPrincipleCase2Optimize1.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\DemeterPrincipleCase2Optimize1.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\DemeterPrincipleCase2Optimize1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\DemeterPrincipleCase2Optimize1.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\DemeterPrincipleCase2Optimize1.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\DemeterPrincipleCase2Optimize1.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\DemeterPrincipleCase2Optimize1.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\refint\DemeterPrincipleCase2Optimize1.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\DemeterPrincipleCase2Optimize1.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\DemeterPrincipleCase2Optimize1.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\6_迪米特原则\DemeterPrincipleCase2Optimize1\obj\Debug\net7.0\ref\DemeterPrincipleCase2Optimize1.dll

@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\bin\Debug\net7.0\1.0_TemplateMethod.exe
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\bin\Debug\net7.0\1.0_TemplateMethod.deps.json
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\bin\Debug\net7.0\1.0_TemplateMethod.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\bin\Debug\net7.0\1.0_TemplateMethod.dll
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\bin\Debug\net7.0\1.0_TemplateMethod.pdb
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\1.0_TemplateMethod.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\1.0_TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\1.0_TemplateMethod.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\1.0_TemplateMethod.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\1.0_TemplateMethod.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\1.0_TemplateMethod.dll
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\refint\1.0_TemplateMethod.dll
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\1.0_TemplateMethod.pdb
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\1.0_TemplateMethod.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\委托\1.0_TemplateMethod\obj\Debug\net7.0\ref\1.0_TemplateMethod.dll

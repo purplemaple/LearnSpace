@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\bin\Debug\net7.0\8.0_Case3_BatchDownload.exe
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\bin\Debug\net7.0\8.0_Case3_BatchDownload.deps.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\bin\Debug\net7.0\8.0_Case3_BatchDownload.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\bin\Debug\net7.0\8.0_Case3_BatchDownload.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\bin\Debug\net7.0\8.0_Case3_BatchDownload.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\8.0_Case3_BatchDownload.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\8.0_Case3_BatchDownload.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\8.0_Case3_BatchDownload.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\8.0_Case3_BatchDownload.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\8.0_Case3_BatchDownload.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\8.0_Case3_BatchDownload.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\refint\8.0_Case3_BatchDownload.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\8.0_Case3_BatchDownload.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\8.0_Case3_BatchDownload.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\8.0_Case3_BatchDownload\obj\Debug\net7.0\ref\8.0_Case3_BatchDownload.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependenceInversionPrinciple", "DependenceInversionPrinciple\DependenceInversionPrinciple.csproj", "{D01F0FB3-C718-44C0-B6F9-A6D76BAA7687}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependenceInversionPrincipleOptimize2", "DependenceInversionPrincipleOptimize2\DependenceInversionPrincipleOptimize2.csproj", "{9BF2BE1F-29BB-4822-ADDA-78759E9EE5DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependenceInversionPrincipleOptimize1", "DependenceInversionPrincipleOptimize1\DependenceInversionPrincipleOptimize1.csproj", "{DC2F4F25-8A48-46FD-B99E-5F0214318946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01F0FB3-C718-44C0-B6F9-A6D76BAA7687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01F0FB3-C718-44C0-B6F9-A6D76BAA7687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01F0FB3-C718-44C0-B6F9-A6D76BAA7687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01F0FB3-C718-44C0-B6F9-A6D76BAA7687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF2BE1F-29BB-4822-ADDA-78759E9EE5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF2BE1F-29BB-4822-ADDA-78759E9EE5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF2BE1F-29BB-4822-ADDA-78759E9EE5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF2BE1F-29BB-4822-ADDA-78759E9EE5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2F4F25-8A48-46FD-B99E-5F0214318946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2F4F25-8A48-46FD-B99E-5F0214318946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2F4F25-8A48-46FD-B99E-5F0214318946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2F4F25-8A48-46FD-B99E-5F0214318946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF162B9-FCAC-4A28-9217-99B2E8D2550D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿//案例2：统计字母频率
+var words = new string[] { "tom", "jerry", "spike", "type", "butch", "quacker" };
+
+/*
+ * 查询表达式
+ */
+var query1 =
+    from w in words
+    from c in w
+    group c by c into g
+    select new { g.Key, Count = g.Count() } into a  //下面要排序，因此用 into 取个别名
+    orderby a.Count descending                      //根据每组的 Count 大小排序，descending：降序排列
+    select a;                                       //一通操作后记得进行收集，查询表达式结尾一定是不含 into 的 group 或者 select
+
+foreach (var n in query1)
+    Console.WriteLine(n);
+
+/*
+ * 链式表达式
+ */
+var query2 = words
+    .SelectMany(c => c)
+    .GroupBy(c => c)
+    .Select(g => new { g.Key, Count = g.Count() })
+    .OrderByDescending(g => g.Count);               //降序排列，链式表达式不限制必须用 select 或 group 结尾
+
+foreach (var n in query2)
+    Console.WriteLine(n);

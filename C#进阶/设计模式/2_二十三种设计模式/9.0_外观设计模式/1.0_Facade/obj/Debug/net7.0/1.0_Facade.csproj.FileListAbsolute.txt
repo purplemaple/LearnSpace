@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\bin\Debug\net7.0\1.0_Facade.exe
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\bin\Debug\net7.0\1.0_Facade.deps.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\bin\Debug\net7.0\1.0_Facade.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\bin\Debug\net7.0\1.0_Facade.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\bin\Debug\net7.0\1.0_Facade.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\1.0_Facade.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\1.0_Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\1.0_Facade.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\1.0_Facade.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\1.0_Facade.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\1.0_Facade.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\refint\1.0_Facade.dll
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\1.0_Facade.pdb
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\1.0_Facade.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\9.0_外观设计模式\1.0_Facade\obj\Debug\net7.0\ref\1.0_Facade.dll

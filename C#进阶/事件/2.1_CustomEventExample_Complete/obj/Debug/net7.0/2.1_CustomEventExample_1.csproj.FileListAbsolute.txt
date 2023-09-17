@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\bin\Debug\net7.0\2.1_CustomEventExample_1.exe
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\bin\Debug\net7.0\2.1_CustomEventExample_1.deps.json
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\bin\Debug\net7.0\2.1_CustomEventExample_1.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\bin\Debug\net7.0\2.1_CustomEventExample_1.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\bin\Debug\net7.0\2.1_CustomEventExample_1.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\2.1_CustomEventExample_1.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\2.1_CustomEventExample_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\2.1_CustomEventExample_1.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\2.1_CustomEventExample_1.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\2.1_CustomEventExample_1.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\2.1_CustomEventExample_1.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\refint\2.1_CustomEventExample_1.dll
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\2.1_CustomEventExample_1.pdb
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\2.1_CustomEventExample_1.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\事件\2.1_CustomEventExample_1\obj\Debug\net7.0\ref\2.1_CustomEventExample_1.dll

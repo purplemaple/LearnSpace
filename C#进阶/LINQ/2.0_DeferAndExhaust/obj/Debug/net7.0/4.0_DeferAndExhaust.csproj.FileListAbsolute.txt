@@ -1,0 +1,15 @@
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\bin\Debug\net7.0\4.0_DeferAndExhaust.exe
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\bin\Debug\net7.0\4.0_DeferAndExhaust.deps.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\bin\Debug\net7.0\4.0_DeferAndExhaust.runtimeconfig.json
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\bin\Debug\net7.0\4.0_DeferAndExhaust.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\bin\Debug\net7.0\4.0_DeferAndExhaust.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\4.0_DeferAndExhaust.csproj.AssemblyReference.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\4.0_DeferAndExhaust.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\4.0_DeferAndExhaust.AssemblyInfoInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\4.0_DeferAndExhaust.AssemblyInfo.cs
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\4.0_DeferAndExhaust.csproj.CoreCompileInputs.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\4.0_DeferAndExhaust.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\refint\4.0_DeferAndExhaust.dll
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\4.0_DeferAndExhaust.pdb
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\4.0_DeferAndExhaust.genruntimeconfig.cache
+E:\Code\C# for VS_Code\C#进阶\LINQ\4.0_DeferAndExhaust\obj\Debug\net7.0\ref\4.0_DeferAndExhaust.dll
