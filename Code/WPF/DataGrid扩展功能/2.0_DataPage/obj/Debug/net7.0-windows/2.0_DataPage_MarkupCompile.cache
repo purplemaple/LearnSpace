@@ -1,5 +1,5 @@
 ﻿2.0_DataPage
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 F:\LearnSpace\Code\WPF\DataGrid扩展功能\2.0_DataPage\App.xaml
 21875886075
 
-8-630125160
-199-862699476
+4-211550364
+198-651932399
 View\MainWindow.xaml;View\Resources.xaml;
 
-True
+False
 
