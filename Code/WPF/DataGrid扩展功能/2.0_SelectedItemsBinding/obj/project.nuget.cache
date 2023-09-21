@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "83JD0rMfL7XLPoI9f8yoJUigvbfp2vA9rQPULQegKKhsR43mL4Y+ZqgUUX8wkMuwbL+gh3Ltp4He6/4nzhd+7Q==",
+  "success": true,
+  "projectFilePath": "F:\\LearnSpace\\Code\\WPF\\DataGrid扩展功能\\2.0_SelectedItemsBinding\\2.0_SelectedItemsBinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

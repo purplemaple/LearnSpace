@@ -1,0 +1,68 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:helpers="clr-namespace:_3._3_DataPageOnChanged.Helpers">
+    
+    <!--定义一个附加属性，用于指定要显示的提示文本-->
+    <helpers:WatermarkHelper x:Key="WatermarkHelper"/>
+    
+    <!--#region TextBox控件实现水印效果-->
+    <!--定义一个TextBox的样式，添加提示效果-->
+    <Style x:Key="WatermarkTextBoxStyle" TargetType="TextBox">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="TextBox">
+                    <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}">
+                        <Grid>
+                            <ScrollViewer x:Name="PART_ContentHost"/>
+                            <!--添加一个TextBlock，用于显示提示文本，并设置其Visibility属性为Collapsed-->
+                            <TextBlock x:Name="HintText" Text="{Binding Path=(helpers:WatermarkHelper.Watermark), RelativeSource={RelativeSource TemplatedParent}}" Foreground="Gray" Margin="5,0,0,0" Visibility="Collapsed"/>
+                        </Grid>
+                    </Border>
+                    <!--
+                        添加一个MultiDataTrigger，当控件的Text属性为空且没有焦点时，将TextBlock的Visibility属性设置为Visible
+                        注：MultiDataTrigger 可以根据多个不同属性的值来触发相同的 Setter，例如下面就是根据 Text || IsFocused 触发 HintText 隐藏
+                    -->
+                    <ControlTemplate.Triggers>
+                        <MultiDataTrigger>
+                            <MultiDataTrigger.Conditions>
+                                <Condition Binding="{Binding Path=Text, RelativeSource={RelativeSource Self}}" Value=""/>
+                                <Condition Binding="{Binding Path=IsFocused, RelativeSource={RelativeSource Self}}" Value="False"/>
+                            </MultiDataTrigger.Conditions>
+                            <Setter TargetName="HintText" Property="Visibility" Value="Visible"/>
+                        </MultiDataTrigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <!--#endregion-->
+    
+    <!--#region PasswordBox 控件实现水印效果-->
+    <!--定义一个PasswordBox的样式，添加提示效果-->
+    <Style x:Key="WatermarkPasswordBoxStyle" TargetType="PasswordBox">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="PasswordBox">
+                    <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}">
+                        <Grid>
+                            <ScrollViewer x:Name="PART_ContentHost"/>
+                            <!--添加一个TextBlock，用于显示提示文本，并设置其Visibility属性为Collapsed-->
+                            <TextBlock x:Name="HintText" Text="{Binding Path=(helpers:WatermarkHelper.Watermark), RelativeSource={RelativeSource TemplatedParent}}" Foreground="Gray" Margin="5,0,0,0" Visibility="Collapsed"/>
+                        </Grid>
+                    </Border>
+                    <!--添加一个MultiDataTrigger，当控件的Password属性为空且没有焦点时，将TextBlock的Visibility属性设置为Visible-->
+                    <ControlTemplate.Triggers>
+                        <MultiDataTrigger>
+                            <MultiDataTrigger.Conditions>
+                                <Condition Binding="{Binding Path=Password, RelativeSource={RelativeSource Self}}" Value=""/>
+                                <Condition Binding="{Binding Path=IsFocused, RelativeSource={RelativeSource Self}}" Value="False"/>
+                            </MultiDataTrigger.Conditions>
+                            <Setter TargetName="HintText" Property="Visibility" Value="Visible"/>
+                        </MultiDataTrigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <!--#endregion-->
+</ResourceDictionary>

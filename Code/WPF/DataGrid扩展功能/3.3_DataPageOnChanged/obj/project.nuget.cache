@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K050g/B9dbfKc51ZYueWOipM3HpxarK2IQbyX+0YJOxNuTvcjLl8FnQTIvaKUXLh9g8RJGikW+ydclEAlXV2Xw==",
+  "success": true,
+  "projectFilePath": "F:\\LearnSpace\\Code\\WPF\\DataGrid扩展功能\\3.3_DataPageOnChanged\\3.3_DataPageOnChanged.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

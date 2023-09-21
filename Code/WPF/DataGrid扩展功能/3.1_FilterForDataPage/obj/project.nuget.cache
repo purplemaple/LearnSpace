@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zGM42ZZ49aurDyLMPZk4Rq2VIWxEomamXM5FLnbltYrpdX1Da6B3e/nWr3g7eAPZs7tBc2HhEYOI9BQImQfcJA==",
+  "success": true,
+  "projectFilePath": "F:\\LearnSpace\\Code\\WPF\\DataGrid扩展功能\\3.1_FilterForDataPage\\3.1_FilterForDataPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

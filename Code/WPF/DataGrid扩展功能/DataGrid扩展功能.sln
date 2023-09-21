@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.0_DataFilter", "1.0_DataFilter\1.0_DataFilter.csproj", "{037E517C-2E81-45EA-97A1-6121E3A3E572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.0_DataFilter", "1.0_DataFilter\1.0_DataFilter.csproj", "{037E517C-2E81-45EA-97A1-6121E3A3E572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.0_DataPage", "2.0_DataPage\2.0_DataPage.csproj", "{CE77B0A7-34A6-4B01-BEE9-C7CA08E53DD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.0_SelectedItemsBinding", "2.0_SelectedItemsBinding\2.0_SelectedItemsBinding.csproj", "{CE77B0A7-34A6-4B01-BEE9-C7CA08E53DD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.1_FilterForDataPage", "3.1_FilterForDataPage\3.1_FilterForDataPage.csproj", "{DC0588C4-8D7B-4C0F-AB1C-84D0E45E1260}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.2_LINQForDataPage", "3.2_LINQForDataPage\3.2_LINQForDataPage.csproj", "{00949027-1499-47E3-912F-7E6CAB095CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3_DataPageOnChanged", "3.3_DataPageOnChanged\3.3_DataPageOnChanged.csproj", "{346DB477-14C5-465E-AF2C-F1F4B5FBAD11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{CE77B0A7-34A6-4B01-BEE9-C7CA08E53DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE77B0A7-34A6-4B01-BEE9-C7CA08E53DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE77B0A7-34A6-4B01-BEE9-C7CA08E53DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC0588C4-8D7B-4C0F-AB1C-84D0E45E1260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0588C4-8D7B-4C0F-AB1C-84D0E45E1260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0588C4-8D7B-4C0F-AB1C-84D0E45E1260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0588C4-8D7B-4C0F-AB1C-84D0E45E1260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00949027-1499-47E3-912F-7E6CAB095CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00949027-1499-47E3-912F-7E6CAB095CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00949027-1499-47E3-912F-7E6CAB095CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00949027-1499-47E3-912F-7E6CAB095CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346DB477-14C5-465E-AF2C-F1F4B5FBAD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346DB477-14C5-465E-AF2C-F1F4B5FBAD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346DB477-14C5-465E-AF2C-F1F4B5FBAD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346DB477-14C5-465E-AF2C-F1F4B5FBAD11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
