@@ -16,8 +16,8 @@ namespace _3._1_FilterForDataPage.ViewModel
      * 本项目在 1.0 和 2.0 的基础上演示如何实现 DataGrid 的分页功能
      * 1. 想到在 1.0 项目中，可以用过滤器 Filter 控制 DataGrid 显示的内容，当然也可以拿来做分页功能
      *      缺陷：所有数据过一遍过滤器，过滤器内还要获取数据下标，组合起来时间复杂度O(n^2)(即使像下面例子，使用 Dictionary 记录元素下标，但当遇到元素增减时，下标打乱又得重新计算，时间复杂度还是很高)
-     * 2. 使用 LINQ 的 Skip() 以及 Take() 操作数据集合实现分页
-     * 3. 在 3.2 项目的基础上，演示当用户删除 dataGrid 中某一行时，依旧能正常分页与跳转
+     * 2. 使用 LINQ 的 Skip() 以及 Take() 操作数据集合实现分页与跳转
+     * 3. 在 3.2 项目的基础上，实现当用户删除 dataGrid 中某一行时，依旧能正常分页与跳转
      */
     public class MyViewModel : BindableBase
     {
