@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\bin\Debug\net7.0\1.0_NonObserverPattern.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\bin\Debug\net7.0\1.0_NonObserverPattern.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\bin\Debug\net7.0\1.0_NonObserverPattern.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\bin\Debug\net7.0\1.0_NonObserverPattern.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\bin\Debug\net7.0\1.0_NonObserverPattern.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\1.0_NonObserverPattern.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\1.0_NonObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\1.0_NonObserverPattern.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\1.0_NonObserverPattern.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\1.0_NonObserverPattern.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\1.0_NonObserverPattern.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\refint\1.0_NonObserverPattern.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\1.0_NonObserverPattern.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\1.0_NonObserverPattern.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\1.0_NonObserverPattern\obj\Debug\net7.0\ref\1.0_NonObserverPattern.dll

@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\bin\Debug\net7.0\2.0_ObserverPatternExample.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\bin\Debug\net7.0\2.0_ObserverPatternExample.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\bin\Debug\net7.0\2.0_ObserverPatternExample.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\bin\Debug\net7.0\2.0_ObserverPatternExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\bin\Debug\net7.0\2.0_ObserverPatternExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\2.0_ObserverPatternExample.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\2.0_ObserverPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\2.0_ObserverPatternExample.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\2.0_ObserverPatternExample.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\2.0_ObserverPatternExample.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\2.0_ObserverPatternExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\refint\2.0_ObserverPatternExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\2.0_ObserverPatternExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\2.0_ObserverPatternExample.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\18.0_观察者设计模式\2.0_ObserverPatternExample\obj\Debug\net7.0\ref\2.0_ObserverPatternExample.dll
