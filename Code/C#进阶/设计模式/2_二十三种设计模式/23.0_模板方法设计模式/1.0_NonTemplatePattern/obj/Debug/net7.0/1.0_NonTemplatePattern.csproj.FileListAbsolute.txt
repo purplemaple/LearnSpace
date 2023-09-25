@@ -1,0 +1,14 @@
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\obj\Debug\net7.0\1.0_NonTemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\obj\Debug\net7.0\1.0_NonTemplatePattern.AssemblyInfoInputs.cache
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\obj\Debug\net7.0\1.0_NonTemplatePattern.AssemblyInfo.cs
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\obj\Debug\net7.0\1.0_NonTemplatePattern.csproj.CoreCompileInputs.cache
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\bin\Debug\net7.0\1.0_NonTemplatePattern.exe
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\bin\Debug\net7.0\1.0_NonTemplatePattern.deps.json
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\bin\Debug\net7.0\1.0_NonTemplatePattern.runtimeconfig.json
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\bin\Debug\net7.0\1.0_NonTemplatePattern.dll
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\bin\Debug\net7.0\1.0_NonTemplatePattern.pdb
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\obj\Debug\net7.0\1.0_NonTemplatePattern.dll
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\obj\Debug\net7.0\refint\1.0_NonTemplatePattern.dll
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\obj\Debug\net7.0\1.0_NonTemplatePattern.pdb
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\obj\Debug\net7.0\1.0_NonTemplatePattern.genruntimeconfig.cache
+D:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\23.0_模板方法设计模式\1.0_NonTemplatePattern\obj\Debug\net7.0\ref\1.0_NonTemplatePattern.dll
