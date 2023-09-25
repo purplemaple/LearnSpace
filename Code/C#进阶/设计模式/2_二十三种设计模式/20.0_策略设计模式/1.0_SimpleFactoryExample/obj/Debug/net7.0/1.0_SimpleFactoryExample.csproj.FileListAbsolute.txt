@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\bin\Debug\net7.0\1.0_SimpleFactoryExample.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\bin\Debug\net7.0\1.0_SimpleFactoryExample.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\bin\Debug\net7.0\1.0_SimpleFactoryExample.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\bin\Debug\net7.0\1.0_SimpleFactoryExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\bin\Debug\net7.0\1.0_SimpleFactoryExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\1.0_SimpleFactoryExample.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\1.0_SimpleFactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\1.0_SimpleFactoryExample.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\1.0_SimpleFactoryExample.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\1.0_SimpleFactoryExample.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\1.0_SimpleFactoryExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\refint\1.0_SimpleFactoryExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\1.0_SimpleFactoryExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\1.0_SimpleFactoryExample.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\20.0_策略设计模式\1.0_SimpleFactoryExample\obj\Debug\net7.0\ref\1.0_SimpleFactoryExample.dll

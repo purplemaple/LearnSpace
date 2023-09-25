@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\bin\Debug\net7.0\2.0_MementoPatternIntro.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\bin\Debug\net7.0\2.0_MementoPatternIntro.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\bin\Debug\net7.0\2.0_MementoPatternIntro.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\bin\Debug\net7.0\2.0_MementoPatternIntro.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\bin\Debug\net7.0\2.0_MementoPatternIntro.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\2.0_MementoPatternIntro.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\2.0_MementoPatternIntro.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\2.0_MementoPatternIntro.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\2.0_MementoPatternIntro.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\2.0_MementoPatternIntro.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\2.0_MementoPatternIntro.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\refint\2.0_MementoPatternIntro.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\2.0_MementoPatternIntro.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\2.0_MementoPatternIntro.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\2.0_MementoPatternIntro\obj\Debug\net7.0\ref\2.0_MementoPatternIntro.dll

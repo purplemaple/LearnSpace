@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\bin\Debug\net7.0\3.0_MementoPatternExample.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\bin\Debug\net7.0\3.0_MementoPatternExample.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\bin\Debug\net7.0\3.0_MementoPatternExample.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\bin\Debug\net7.0\3.0_MementoPatternExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\bin\Debug\net7.0\3.0_MementoPatternExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\3.0_MementoPatternExample.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\3.0_MementoPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\3.0_MementoPatternExample.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\3.0_MementoPatternExample.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\3.0_MementoPatternExample.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\3.0_MementoPatternExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\refint\3.0_MementoPatternExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\3.0_MementoPatternExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\3.0_MementoPatternExample.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\3.0_MementoPatternExample\obj\Debug\net7.0\ref\3.0_MementoPatternExample.dll

@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\bin\Debug\net7.0\2.0_StatePatternIntro.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\bin\Debug\net7.0\2.0_StatePatternIntro.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\bin\Debug\net7.0\2.0_StatePatternIntro.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\bin\Debug\net7.0\2.0_StatePatternIntro.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\bin\Debug\net7.0\2.0_StatePatternIntro.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\2.0_StatePatternIntro.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\2.0_StatePatternIntro.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\2.0_StatePatternIntro.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\2.0_StatePatternIntro.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\2.0_StatePatternIntro.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\2.0_StatePatternIntro.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\refint\2.0_StatePatternIntro.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\2.0_StatePatternIntro.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\2.0_StatePatternIntro.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\2.0_StatePatternIntro\obj\Debug\net7.0\ref\2.0_StatePatternIntro.dll

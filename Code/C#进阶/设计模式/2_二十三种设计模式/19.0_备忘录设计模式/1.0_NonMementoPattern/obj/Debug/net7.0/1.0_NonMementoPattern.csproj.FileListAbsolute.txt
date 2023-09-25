@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\bin\Debug\net7.0\1.0_NonMementoPattern.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\bin\Debug\net7.0\1.0_NonMementoPattern.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\bin\Debug\net7.0\1.0_NonMementoPattern.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\bin\Debug\net7.0\1.0_NonMementoPattern.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\bin\Debug\net7.0\1.0_NonMementoPattern.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\1.0_NonMementoPattern.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\1.0_NonMementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\1.0_NonMementoPattern.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\1.0_NonMementoPattern.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\1.0_NonMementoPattern.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\1.0_NonMementoPattern.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\refint\1.0_NonMementoPattern.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\1.0_NonMementoPattern.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\1.0_NonMementoPattern.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\19.0_备忘录设计模式\1.0_NonMementoPattern\obj\Debug\net7.0\ref\1.0_NonMementoPattern.dll
