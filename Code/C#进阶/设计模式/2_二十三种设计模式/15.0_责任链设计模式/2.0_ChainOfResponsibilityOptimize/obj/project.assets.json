@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\15.0_责任链设计模式\\2.0_ChainOfResponsibilityOptimize\\2.0_ChainOfResponsibilityOptimize.csproj",
+      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\15.0_责任链设计模式\\2.0_ChainOfResponsibilityOptimize\\2.0_ChainOfResponsibilityOptimize.csproj",
       "projectName": "2.0_ChainOfResponsibilityOptimize",
-      "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\15.0_责任链设计模式\\2.0_ChainOfResponsibilityOptimize\\2.0_ChainOfResponsibilityOptimize.csproj",
+      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\15.0_责任链设计模式\\2.0_ChainOfResponsibilityOptimize\\2.0_ChainOfResponsibilityOptimize.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\15.0_责任链设计模式\\2.0_ChainOfResponsibilityOptimize\\obj\\",
+      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\15.0_责任链设计模式\\2.0_ChainOfResponsibilityOptimize\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"

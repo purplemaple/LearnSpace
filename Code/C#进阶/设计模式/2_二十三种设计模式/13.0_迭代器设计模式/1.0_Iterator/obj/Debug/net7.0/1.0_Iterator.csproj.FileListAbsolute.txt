@@ -13,3 +13,18 @@ E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭
 E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.pdb
 E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.genruntimeconfig.cache
 E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\ref\1.0_Iterator.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\bin\Debug\net7.0\1.0_Iterator.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\bin\Debug\net7.0\1.0_Iterator.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\bin\Debug\net7.0\1.0_Iterator.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\bin\Debug\net7.0\1.0_Iterator.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\bin\Debug\net7.0\1.0_Iterator.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\refint\1.0_Iterator.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\1.0_Iterator.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\13.0_迭代器设计模式\1.0_Iterator\obj\Debug\net7.0\ref\1.0_Iterator.dll

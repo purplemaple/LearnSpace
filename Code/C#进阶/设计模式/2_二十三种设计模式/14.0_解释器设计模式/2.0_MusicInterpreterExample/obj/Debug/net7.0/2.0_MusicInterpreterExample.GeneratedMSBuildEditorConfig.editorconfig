@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _2._0_MusicInterpreterExample
-build_property.ProjectDir = E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\
+build_property.ProjectDir = F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\

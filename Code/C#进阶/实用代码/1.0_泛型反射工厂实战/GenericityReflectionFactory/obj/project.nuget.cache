@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R61UZav+nw6qvCZwSUCnIlk8TMTLoZxqDYRNTWtOpgM5REP/w91X6bL/3mpmI5/IU/waaXWo4/NPIR6EXDFSYA==",
+  "dgSpecHash": "RM7ERClCf+v4n6QBZsitdZ93YIkMVLZIC0HpkCf75x8hnhbomiDi71I/NWhN0Rf8xftwZlpkrBtM29ietVVLAA==",
   "success": true,
-  "projectFilePath": "E:\\Code\\C# for VS_Code\\C#进阶\\实用代码\\1.0_泛型反射工厂实战\\GenericityReflectionFactory\\GenericityReflectionFactory.csproj",
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\实用代码\\1.0_泛型反射工厂实战\\GenericityReflectionFactory\\GenericityReflectionFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

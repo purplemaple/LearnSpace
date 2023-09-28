@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\实用代码\\1.0_泛型反射工厂实战\\GenericityReflectionFactory\\GenericityReflectionFactory.csproj",
+      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\实用代码\\1.0_泛型反射工厂实战\\GenericityReflectionFactory\\GenericityReflectionFactory.csproj",
       "projectName": "GenericityReflectionFactory",
-      "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\实用代码\\1.0_泛型反射工厂实战\\GenericityReflectionFactory\\GenericityReflectionFactory.csproj",
+      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\实用代码\\1.0_泛型反射工厂实战\\GenericityReflectionFactory\\GenericityReflectionFactory.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\实用代码\\1.0_泛型反射工厂实战\\GenericityReflectionFactory\\obj\\",
+      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\实用代码\\1.0_泛型反射工厂实战\\GenericityReflectionFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"

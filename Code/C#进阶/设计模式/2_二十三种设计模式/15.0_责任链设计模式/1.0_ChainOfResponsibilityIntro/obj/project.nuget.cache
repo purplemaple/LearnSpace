@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g62tTB+Bbee/J3UTwlFhQ3oAs25gnvyHH420m5TCnyDjwbk9V5Edlu4aozWKydwYOCTDL8j7UnZgHxMyQB0OHQ==",
+  "dgSpecHash": "Mbbfsr94NVPBCa3T5K06kObbrf6Yyp9psQGJJHcl+CnMNVP9BupUTTtZYcIVZJiTu0G36ehvYKk/eR925bDTZw==",
   "success": true,
-  "projectFilePath": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\15.0_责任链设计模式\\1.0_ChainOfResponsibilityIntro\\1.0_ChainOfResponsibilityIntro.csproj",
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\15.0_责任链设计模式\\1.0_ChainOfResponsibilityIntro\\1.0_ChainOfResponsibilityIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

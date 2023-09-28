@@ -13,3 +13,18 @@ E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解
 E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.pdb
 E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.genruntimeconfig.cache
 E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\ref\2.0_MusicInterpreterExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\bin\Debug\net7.0\2.0_MusicInterpreterExample.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\bin\Debug\net7.0\2.0_MusicInterpreterExample.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\bin\Debug\net7.0\2.0_MusicInterpreterExample.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\bin\Debug\net7.0\2.0_MusicInterpreterExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\bin\Debug\net7.0\2.0_MusicInterpreterExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\refint\2.0_MusicInterpreterExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\2.0_MusicInterpreterExample.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\2.0_MusicInterpreterExample\obj\Debug\net7.0\ref\2.0_MusicInterpreterExample.dll

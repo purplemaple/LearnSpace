@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\1.0_Iterator.csproj": {}
+    "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\1.0_Iterator.csproj": {}
   },
   "projects": {
-    "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\1.0_Iterator.csproj": {
+    "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\1.0_Iterator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\1.0_Iterator.csproj",
+        "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\1.0_Iterator.csproj",
         "projectName": "1.0_Iterator",
-        "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\1.0_Iterator.csproj",
+        "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\1.0_Iterator.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\obj\\",
+        "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\1.0_Iterator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\2.0_IEnumerator_IEnumerable\\2.0_IEnumerator_IEnumerable.csproj",
+      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\2.0_IEnumerator_IEnumerable\\2.0_IEnumerator_IEnumerable.csproj",
       "projectName": "2.0_IEnumerator_IEnumerable",
-      "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\2.0_IEnumerator_IEnumerable\\2.0_IEnumerator_IEnumerable.csproj",
+      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\2.0_IEnumerator_IEnumerable\\2.0_IEnumerator_IEnumerable.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\2.0_IEnumerator_IEnumerable\\obj\\",
+      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\13.0_迭代器设计模式\\2.0_IEnumerator_IEnumerable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"

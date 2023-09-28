@@ -13,3 +13,18 @@ E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解
 E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.pdb
 E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.genruntimeconfig.cache
 E:\Code\C# for VS_Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\ref\1.0_OriginalInterpreterExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\bin\Debug\net7.0\1.0_OriginalInterpreterExample.exe
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\bin\Debug\net7.0\1.0_OriginalInterpreterExample.deps.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\bin\Debug\net7.0\1.0_OriginalInterpreterExample.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\bin\Debug\net7.0\1.0_OriginalInterpreterExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\bin\Debug\net7.0\1.0_OriginalInterpreterExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\refint\1.0_OriginalInterpreterExample.dll
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.pdb
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\1.0_OriginalInterpreterExample.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\14.0_解释器设计模式\1.0_OriginalInterpreterExample\obj\Debug\net7.0\ref\1.0_OriginalInterpreterExample.dll

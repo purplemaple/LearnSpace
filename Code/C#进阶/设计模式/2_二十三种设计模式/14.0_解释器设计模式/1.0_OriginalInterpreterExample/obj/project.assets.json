@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\14.0_解释器设计模式\\1.0_OriginalInterpreterExample\\1.0_OriginalInterpreterExample.csproj",
+      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\14.0_解释器设计模式\\1.0_OriginalInterpreterExample\\1.0_OriginalInterpreterExample.csproj",
       "projectName": "1.0_OriginalInterpreterExample",
-      "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\14.0_解释器设计模式\\1.0_OriginalInterpreterExample\\1.0_OriginalInterpreterExample.csproj",
+      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\14.0_解释器设计模式\\1.0_OriginalInterpreterExample\\1.0_OriginalInterpreterExample.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\设计模式\\2_二十三种设计模式\\14.0_解释器设计模式\\1.0_OriginalInterpreterExample\\obj\\",
+      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\14.0_解释器设计模式\\1.0_OriginalInterpreterExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
