@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\bin\Debug\net7.0\TcpServer.exe
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\bin\Debug\net7.0\TcpServer.deps.json
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\bin\Debug\net7.0\TcpServer.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\bin\Debug\net7.0\TcpServer.dll
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\bin\Debug\net7.0\TcpServer.pdb
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\TcpServer.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\TcpServer.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\TcpServer.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\TcpServer.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\TcpServer.dll
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\refint\TcpServer.dll
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\TcpServer.pdb
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\TcpServer.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\Socket\Server\TcpServer\obj\Debug\net7.0\ref\TcpServer.dll

@@ -1,0 +1,59 @@
+﻿<Window x:Class="ChatRoomTcpServer.View.ServerView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:VMs="clr-namespace:ChatRoomTcpServer.ViewModel"
+        d:DataContext="{d:DesignInstance VMs:ServerViewModel}"
+        xmlns:local="clr-namespace:ChatRoomTcpServer.View"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="服务端" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.15*"/>
+            <RowDefinition Height="0.7*"/>
+            <RowDefinition Height="0.15*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel LastChildFill="False">
+            <Label Width="80" Height="30" 
+                   Margin="40, 0, 10, 0"
+                   Content="IP"
+                   HorizontalContentAlignment="Center"/>
+            <TextBox Width="160" Height="30"
+                     Margin="2"
+                     VerticalContentAlignment="Center"
+                     Text="{Binding ServerModel.IP}"/>
+        </DockPanel>
+
+        <DockPanel Grid.Column="1"
+                   LastChildFill="False">
+            <Label Width="80" Height="30" 
+                   Margin="40, 0, 10, 0"
+                   Content="Port"
+                   HorizontalContentAlignment="Center"/>
+            <TextBox Width="160" Height="30"
+                     Margin="2"
+                     VerticalContentAlignment="Center"
+                     Text="{Binding ServerModel.Port}"/>
+        </DockPanel>
+
+        <TextBox Grid.Row="1" Grid.Column="0" 
+                 Margin="40, 20, 20, 20"
+                 Text="{Binding ServerModel.ChatTextBox1}"/>
+        
+        <TextBox Grid.Row="1" Grid.Column="1" 
+                 Margin="20, 20, 40, 20"
+                 Text="{Binding ServerModel.ChatTextBox2}"/>
+
+        <Button Grid.Row="2" Grid.ColumnSpan="2"
+                Width="100" Height="30"
+                Content="启动服务器"
+                Command="{Binding StartServerCommand}"/>
+    </Grid>
+</Window>

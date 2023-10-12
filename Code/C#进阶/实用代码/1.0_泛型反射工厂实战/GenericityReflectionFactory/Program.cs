@@ -33,6 +33,7 @@ namespace GenericityReflectionFactory
             Console.WriteLine("结果为：" + calcService.Calc(x, y));
 
             Console.WriteLine("-----------------------------");
+
         }
     }
 }

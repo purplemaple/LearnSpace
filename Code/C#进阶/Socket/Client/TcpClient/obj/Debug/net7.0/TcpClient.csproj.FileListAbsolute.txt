@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\bin\Debug\net7.0\TcpClient.exe
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\bin\Debug\net7.0\TcpClient.deps.json
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\bin\Debug\net7.0\TcpClient.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\bin\Debug\net7.0\TcpClient.dll
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\bin\Debug\net7.0\TcpClient.pdb
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\TcpClient.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\TcpClient.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\TcpClient.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\TcpClient.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\TcpClient.dll
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\refint\TcpClient.dll
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\TcpClient.pdb
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\TcpClient.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\Socket\Client\TcpClient\obj\Debug\net7.0\ref\TcpClient.dll

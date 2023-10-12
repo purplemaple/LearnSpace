@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y40IH2hegKJRalTscl81veIm2poinX9nD0v8TW3VLyBl1xkNakqZpxo7Pw2p54hcF+/OySunh4UQwJhr6sg5lg==",
+  "success": true,
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\Socket\\ChatRoomExample\\TcpClient\\ChatRoomTcpClient_1\\ChatRoomTcpClient_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
