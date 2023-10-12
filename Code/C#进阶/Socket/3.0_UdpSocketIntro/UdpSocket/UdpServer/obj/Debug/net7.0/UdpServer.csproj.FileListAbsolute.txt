@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\bin\Debug\net7.0\UdpServer.exe
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\bin\Debug\net7.0\UdpServer.deps.json
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\bin\Debug\net7.0\UdpServer.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\bin\Debug\net7.0\UdpServer.dll
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\bin\Debug\net7.0\UdpServer.pdb
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\UdpServer.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\UdpServer.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\UdpServer.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\UdpServer.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\UdpServer.dll
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\refint\UdpServer.dll
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\UdpServer.pdb
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\UdpServer.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\Socket\3.0_UdpSocketIntro\UdpSocket\UdpServer\obj\Debug\net7.0\ref\UdpServer.dll

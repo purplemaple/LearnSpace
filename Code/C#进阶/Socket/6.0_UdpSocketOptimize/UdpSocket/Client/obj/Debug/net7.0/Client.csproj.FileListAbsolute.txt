@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\bin\Debug\net7.0\Client.exe
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\bin\Debug\net7.0\Client.deps.json
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\bin\Debug\net7.0\Client.dll
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\bin\Debug\net7.0\Client.pdb
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\Client.dll
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\refint\Client.dll
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\Client.pdb
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\Socket\6.0_UdpSocketOptimize\UdpSocket\Client\obj\Debug\net7.0\ref\Client.dll
