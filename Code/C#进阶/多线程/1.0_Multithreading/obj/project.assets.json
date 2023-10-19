@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\1.0_Multithreading\\1.0_Multithreading.csproj",
+      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\1.0_Multithreading\\1.0_Multithreading.csproj",
       "projectName": "1.0_Multithreading",
-      "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\1.0_Multithreading\\1.0_Multithreading.csproj",
+      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\1.0_Multithreading\\1.0_Multithreading.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\1.0_Multithreading\\obj\\",
+      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\1.0_Multithreading\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"

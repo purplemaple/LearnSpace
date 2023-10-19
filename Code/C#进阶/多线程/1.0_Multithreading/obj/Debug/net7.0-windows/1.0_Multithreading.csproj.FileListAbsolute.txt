@@ -26,3 +26,26 @@ E:\Code\C# for VS_Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-wi
 E:\Code\C# for VS_Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\ref\1.0_Multithreading.dll
 E:\Code\C# for VS_Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\MainWindow.g.cs
 E:\Code\C# for VS_Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\MainWindow.baml
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\bin\Debug\net7.0-windows\1.0_Multithreading.exe
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\bin\Debug\net7.0-windows\1.0_Multithreading.deps.json
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\bin\Debug\net7.0-windows\1.0_Multithreading.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\bin\Debug\net7.0-windows\1.0_Multithreading.dll
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\bin\Debug\net7.0-windows\1.0_Multithreading.pdb
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\bin\Debug\net7.0-windows\Prism.dll
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\App.g.cs
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading_MarkupCompile.cache
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading_MarkupCompile.lref
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\MainWindow.baml
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.g.resources
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.csproj.CopyComplete
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.dll
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\refint\1.0_Multithreading.dll
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.pdb
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\1.0_Multithreading.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\多线程\1.0_Multithreading\obj\Debug\net7.0-windows\ref\1.0_Multithreading.dll

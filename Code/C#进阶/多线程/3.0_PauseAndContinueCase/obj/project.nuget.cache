@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LuMcSEEq/kK7ODaO4GzjtajZjmnmtFuu0Jr/034vyjYcbyDVFUqCaCCsOiAHshMsiUox4zFnVouOk1ea4DhdDQ==",
+  "dgSpecHash": "6e/neq3TlKqfYvVg9IWZ0qn5vu/Z35A3ZtPdViC/W0rPRQ3FPMO0GipPbAIIyOOMA0Jnri4M0JK//bVpxXtaYw==",
   "success": true,
-  "projectFilePath": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj",
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
   ],

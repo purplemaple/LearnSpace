@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\2.0_WaitCase\\2.0_WaitCase.csproj": {}
+    "F:\\LearnSpace\\Code\\C#进阶\\多线程\\2.0_WaitCase\\2.0_WaitCase.csproj": {}
   },
   "projects": {
-    "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\2.0_WaitCase\\2.0_WaitCase.csproj": {
+    "F:\\LearnSpace\\Code\\C#进阶\\多线程\\2.0_WaitCase\\2.0_WaitCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\2.0_WaitCase\\2.0_WaitCase.csproj",
+        "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\2.0_WaitCase\\2.0_WaitCase.csproj",
         "projectName": "2.0_WaitCase",
-        "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\2.0_WaitCase\\2.0_WaitCase.csproj",
+        "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\2.0_WaitCase\\2.0_WaitCase.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\2.0_WaitCase\\obj\\",
+        "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\2.0_WaitCase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"

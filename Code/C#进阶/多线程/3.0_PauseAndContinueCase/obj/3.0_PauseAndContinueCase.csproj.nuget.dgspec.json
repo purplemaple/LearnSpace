@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj": {}
+    "F:\\LearnSpace\\Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj": {}
   },
   "projects": {
-    "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj": {
+    "F:\\LearnSpace\\Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj",
+        "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj",
         "projectName": "3.0_PauseAndContinueCase",
-        "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj",
+        "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\3.0_PauseAndContinueCase.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\obj\\",
+        "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程\\3.0_PauseAndContinueCase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
