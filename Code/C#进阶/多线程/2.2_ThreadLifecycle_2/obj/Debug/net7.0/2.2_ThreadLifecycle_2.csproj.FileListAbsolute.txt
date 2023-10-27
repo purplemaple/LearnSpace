@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\bin\Debug\net7.0\2.2_ThreadLifecycle_2.exe
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\bin\Debug\net7.0\2.2_ThreadLifecycle_2.deps.json
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\bin\Debug\net7.0\2.2_ThreadLifecycle_2.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\bin\Debug\net7.0\2.2_ThreadLifecycle_2.dll
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\bin\Debug\net7.0\2.2_ThreadLifecycle_2.pdb
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\2.2_ThreadLifecycle_2.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\2.2_ThreadLifecycle_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\2.2_ThreadLifecycle_2.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\2.2_ThreadLifecycle_2.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\2.2_ThreadLifecycle_2.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\2.2_ThreadLifecycle_2.dll
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\refint\2.2_ThreadLifecycle_2.dll
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\2.2_ThreadLifecycle_2.pdb
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\2.2_ThreadLifecycle_2.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\多线程\2.2_ThreadLifecycle_2\obj\Debug\net7.0\ref\2.2_ThreadLifecycle_2.dll

@@ -1,0 +1,5 @@
+F:\LearnSpace\Code\C#进阶\多线程\3.3_ThreadSafety_3\obj\Debug\net7.0\3.3_ThreadSafety_3.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\多线程\3.3_ThreadSafety_3\obj\Debug\net7.0\3.3_ThreadSafety_3.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\多线程\3.3_ThreadSafety_3\obj\Debug\net7.0\3.3_ThreadSafety_3.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\多线程\3.3_ThreadSafety_3\obj\Debug\net7.0\3.3_ThreadSafety_3.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\多线程\3.3_ThreadSafety_3\obj\Debug\net7.0\3.3_ThreadSafety_3.csproj.CoreCompileInputs.cache
