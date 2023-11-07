@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xmcWsqQ5iN/0rLqwk3AMo6BvkNdkcT24sx3KYyrKLKIVTUHJCmdKoGHRXsWT0duwRLH3sflnq+82zNRK1CYtHA==",
+  "dgSpecHash": "Gk4BG0e9iQNckCZbrrqFYV2pJL9AjY+SpWbuzg5ToAUeHhh7g+RYznFICJ1z4iRgna9q54VLZbqkuZnYVd1TwA==",
   "success": true,
-  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\异步\\2.2_SimpleTaskExample_2\\2.2_SimpleTaskExample_2.csproj",
+  "projectFilePath": "D:\\LearnSpace\\Code\\C#进阶\\异步\\2.2_SimpleTaskExample_2\\2.2_SimpleTaskExample_2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

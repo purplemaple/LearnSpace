@@ -13,3 +13,17 @@ F:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\refi
 F:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\2.2_SimpleTaskExample_2.pdb
 F:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\2.2_SimpleTaskExample_2.genruntimeconfig.cache
 F:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\ref\2.2_SimpleTaskExample_2.dll
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\bin\Debug\net7.0\2.2_SimpleTaskExample_2.exe
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\bin\Debug\net7.0\2.2_SimpleTaskExample_2.deps.json
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\bin\Debug\net7.0\2.2_SimpleTaskExample_2.runtimeconfig.json
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\bin\Debug\net7.0\2.2_SimpleTaskExample_2.dll
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\bin\Debug\net7.0\2.2_SimpleTaskExample_2.pdb
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\2.2_SimpleTaskExample_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\2.2_SimpleTaskExample_2.AssemblyInfoInputs.cache
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\2.2_SimpleTaskExample_2.AssemblyInfo.cs
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\2.2_SimpleTaskExample_2.csproj.CoreCompileInputs.cache
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\2.2_SimpleTaskExample_2.dll
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\refint\2.2_SimpleTaskExample_2.dll
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\2.2_SimpleTaskExample_2.pdb
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\2.2_SimpleTaskExample_2.genruntimeconfig.cache
+D:\LearnSpace\Code\C#进阶\异步\2.2_SimpleTaskExample_2\obj\Debug\net7.0\ref\2.2_SimpleTaskExample_2.dll

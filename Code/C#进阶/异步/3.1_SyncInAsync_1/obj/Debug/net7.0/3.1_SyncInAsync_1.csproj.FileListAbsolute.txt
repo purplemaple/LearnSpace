@@ -1,0 +1,14 @@
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\bin\Debug\net7.0\3.1_SyncInAsync_1.exe
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\bin\Debug\net7.0\3.1_SyncInAsync_1.deps.json
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\bin\Debug\net7.0\3.1_SyncInAsync_1.runtimeconfig.json
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\bin\Debug\net7.0\3.1_SyncInAsync_1.dll
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\bin\Debug\net7.0\3.1_SyncInAsync_1.pdb
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\obj\Debug\net7.0\3.1_SyncInAsync_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\obj\Debug\net7.0\3.1_SyncInAsync_1.AssemblyInfoInputs.cache
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\obj\Debug\net7.0\3.1_SyncInAsync_1.AssemblyInfo.cs
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\obj\Debug\net7.0\3.1_SyncInAsync_1.csproj.CoreCompileInputs.cache
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\obj\Debug\net7.0\3.1_SyncInAsync_1.dll
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\obj\Debug\net7.0\refint\3.1_SyncInAsync_1.dll
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\obj\Debug\net7.0\3.1_SyncInAsync_1.pdb
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\obj\Debug\net7.0\3.1_SyncInAsync_1.genruntimeconfig.cache
+D:\LearnSpace\Code\C#进阶\异步\3.1_SyncInAsync_1\obj\Debug\net7.0\ref\3.1_SyncInAsync_1.dll

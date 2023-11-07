@@ -3,11 +3,14 @@
 //创建一个 Task 集合
 List<Task<int>> tasks = new();
 
-//遍历 Task 集合，给每个 Task 添加 HeavyJob 任务
+/*//遍历 Task 集合，给每个 Task 添加 HeavyJob 任务
 foreach (var input in inputs)
 {
     tasks.Add(HeavyJob(input));
-}
+}*/
+
+// LINQ简化语法：
+tasks = inputs.Select(HeavyJob).ToList();
 
 /* 调用 .Result 时，如果任务没完成，则阻塞主线程，等待任务完成拿到结果后再继续
  * 这种阻塞方式不太好，因此在调用前加上一句 await Task.WhenAll()，即可异步地等待所有任务完成

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj": {}
+    "D:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj": {}
   },
   "projects": {
-    "F:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj": {
+    "D:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
+        "projectUniqueName": "D:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
         "projectName": "1.5_async_voidExample_2",
-        "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\obj\\",
+        "projectPath": "D:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
+        "packagesPath": "C:\\Users\\Huang\\.nuget\\packages\\",
+        "outputPath": "D:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
+          "D:\\Programming\\VS2022\\共享组件、工具和SDK\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
