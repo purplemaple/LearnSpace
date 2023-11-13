@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "In1dNqEWSqpxW4g68l4pxnffBeFQHlJfA5RwALXdchho8dfg8VVZbsSwVsQf/2Mks3Eeg7jH9J0MuNwHacJp9Q==",
+  "dgSpecHash": "2oAv4otTjRSflvIrqOwM+GQclzdtxo50OTDsnQex47Nwsd5UT3LgNUg9Jns4e6ayqRfRo7mcyn0pqXQy95I70A==",
   "success": true,
-  "projectFilePath": "D:\\LearnSpace\\Code\\C#进阶\\异步\\3.1_SyncInAsync_1\\3.1_SyncInAsync_1.csproj",
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\3.1_SyncInAsync_1\\3.1_SyncInAsync_1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\bin\Debug\net7.0\1.1_TaskCancelExample_1.exe
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\bin\Debug\net7.0\1.1_TaskCancelExample_1.deps.json
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\bin\Debug\net7.0\1.1_TaskCancelExample_1.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\bin\Debug\net7.0\1.1_TaskCancelExample_1.dll
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\bin\Debug\net7.0\1.1_TaskCancelExample_1.pdb
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\1.1_TaskCancelExample_1.csproj.AssemblyReference.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\1.1_TaskCancelExample_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\1.1_TaskCancelExample_1.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\1.1_TaskCancelExample_1.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\1.1_TaskCancelExample_1.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\1.1_TaskCancelExample_1.dll
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\refint\1.1_TaskCancelExample_1.dll
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\1.1_TaskCancelExample_1.pdb
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\1.1_TaskCancelExample_1.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\1.1_TaskCancelExample_1\obj\Debug\net7.0\ref\1.1_TaskCancelExample_1.dll

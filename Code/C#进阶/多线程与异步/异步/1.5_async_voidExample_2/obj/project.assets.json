@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Huang\\.nuget\\packages\\": {},
-    "D:\\Programming\\VS2022\\共享组件、工具和SDK\\NuGetPackages": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
+      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
       "projectName": "1.5_async_voidExample_2",
-      "projectPath": "D:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
-      "packagesPath": "C:\\Users\\Huang\\.nuget\\packages\\",
-      "outputPath": "D:\\LearnSpace\\Code\\C#进阶\\异步\\1.5_async_voidExample_2\\obj\\",
+      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\1.5_async_voidExample_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Programming\\VS2022\\共享组件、工具和SDK\\NuGetPackages"
+        "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

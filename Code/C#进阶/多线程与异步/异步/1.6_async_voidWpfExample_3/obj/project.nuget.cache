@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ngOOH/xraIwTxR78u7C/BkIx10hX9dzclb6VoOLE0kCGaqCUiQTBYkYxnSaTE3wKWM/Ramx8AmGfkZ7VCZgaA==",
+  "dgSpecHash": "0ZVupE7SShPflXv4T036bB5zCoFX0PEyE/XuWvIxrCCbT7giWHenXDxHy/o9IY4T3SlK0uUEbNqr++0yhbsHDg==",
   "success": true,
-  "projectFilePath": "D:\\LearnSpace\\Code\\C#进阶\\异步\\1.6_async_voidWpfExample_3\\1.6_async_voidWpfExample_3.csproj",
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\1.6_async_voidWpfExample_3\\1.6_async_voidWpfExample_3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

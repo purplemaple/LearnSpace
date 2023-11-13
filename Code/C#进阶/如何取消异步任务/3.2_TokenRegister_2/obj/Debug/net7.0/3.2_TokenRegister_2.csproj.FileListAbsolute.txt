@@ -1,0 +1,14 @@
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\bin\Debug\net7.0\3.2_TokenRegister_2.exe
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\bin\Debug\net7.0\3.2_TokenRegister_2.deps.json
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\bin\Debug\net7.0\3.2_TokenRegister_2.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\bin\Debug\net7.0\3.2_TokenRegister_2.dll
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\bin\Debug\net7.0\3.2_TokenRegister_2.pdb
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\obj\Debug\net7.0\3.2_TokenRegister_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\obj\Debug\net7.0\3.2_TokenRegister_2.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\obj\Debug\net7.0\3.2_TokenRegister_2.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\obj\Debug\net7.0\3.2_TokenRegister_2.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\obj\Debug\net7.0\3.2_TokenRegister_2.dll
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\obj\Debug\net7.0\refint\3.2_TokenRegister_2.dll
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\obj\Debug\net7.0\3.2_TokenRegister_2.pdb
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\obj\Debug\net7.0\3.2_TokenRegister_2.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.2_TokenRegister_2\obj\Debug\net7.0\ref\3.2_TokenRegister_2.dll

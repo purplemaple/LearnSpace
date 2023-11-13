@@ -1,0 +1,14 @@
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\bin\Debug\net7.0\3.1_TaskFromCanceled_1.exe
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\bin\Debug\net7.0\3.1_TaskFromCanceled_1.deps.json
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\bin\Debug\net7.0\3.1_TaskFromCanceled_1.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\bin\Debug\net7.0\3.1_TaskFromCanceled_1.dll
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\bin\Debug\net7.0\3.1_TaskFromCanceled_1.pdb
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\obj\Debug\net7.0\3.1_TaskFromCanceled_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\obj\Debug\net7.0\3.1_TaskFromCanceled_1.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\obj\Debug\net7.0\3.1_TaskFromCanceled_1.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\obj\Debug\net7.0\3.1_TaskFromCanceled_1.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\obj\Debug\net7.0\3.1_TaskFromCanceled_1.dll
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\obj\Debug\net7.0\refint\3.1_TaskFromCanceled_1.dll
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\obj\Debug\net7.0\3.1_TaskFromCanceled_1.pdb
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\obj\Debug\net7.0\3.1_TaskFromCanceled_1.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\如何取消异步任务\3.1_TaskFromCanceled_1\obj\Debug\net7.0\ref\3.1_TaskFromCanceled_1.dll
