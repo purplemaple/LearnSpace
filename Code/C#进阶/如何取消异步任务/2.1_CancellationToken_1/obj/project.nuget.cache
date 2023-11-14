@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "4m7c1mOkWV7pP+K+wK0ZUoUa1NlPm5be8Hx3VIFVh5lt3tDYwOdkDwVmaJpdk43QzqRUR8p1ihbU6FnZP10oKg==",
-  "success": true,
-  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\如何取消异步任务\\2.1_CancellationToken_1\\2.1_CancellationToken_1.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}
