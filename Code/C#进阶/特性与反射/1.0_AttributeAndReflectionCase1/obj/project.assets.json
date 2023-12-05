@@ -99,11 +99,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\特性与反射\\1.0_AttributeAndReflectionCase1\\1.0_AttributeAndReflectionCase1.csproj",
+      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\特性与反射\\1.0_AttributeAndReflectionCase1\\1.0_AttributeAndReflectionCase1.csproj",
       "projectName": "1.0_AttributeAndReflectionCase1",
-      "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\特性与反射\\1.0_AttributeAndReflectionCase1\\1.0_AttributeAndReflectionCase1.csproj",
+      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\特性与反射\\1.0_AttributeAndReflectionCase1\\1.0_AttributeAndReflectionCase1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\特性与反射\\1.0_AttributeAndReflectionCase1\\obj\\",
+      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\特性与反射\\1.0_AttributeAndReflectionCase1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
@@ -164,7 +164,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

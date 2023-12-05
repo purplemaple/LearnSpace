@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/isqaPAIYGL3qmfw8wbRRvbtbF/NRysn7KDUZoihYvo+17EqMzava9V4iozEW1VIi0eX4e6Qd5j5efzqETOnDA==",
+  "success": true,
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\4_异步任务的超时机制\\2.3_TaskTimeoutExample_3\\2.3_TaskTimeoutExample_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.13\\microsoft.netcore.app.runtime.win-x64.7.0.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.13\\microsoft.aspnetcore.app.runtime.win-x64.7.0.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.13\\microsoft.netcore.app.crossgen2.win-x64.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

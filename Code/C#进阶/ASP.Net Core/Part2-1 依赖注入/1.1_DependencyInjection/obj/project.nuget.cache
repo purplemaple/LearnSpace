@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ir+FI8Yw++uana7J/mqieclFMT+qLNOuHCAz6eU0sFvAy8nI9vTTxukxlz7oql7ETsa5F0FLCnJ8t/k/c1odrQ==",
+  "success": true,
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.1_DependencyInjection\\1.1_DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

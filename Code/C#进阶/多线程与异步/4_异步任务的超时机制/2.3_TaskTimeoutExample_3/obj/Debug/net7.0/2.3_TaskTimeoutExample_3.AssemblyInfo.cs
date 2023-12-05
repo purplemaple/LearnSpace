@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2.3_TaskTimeoutExample_3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f64bc8efbcd3d8b969ab7a40f790c452fb7b7fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("2.3_TaskTimeoutExample_3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2.3_TaskTimeoutExample_3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
