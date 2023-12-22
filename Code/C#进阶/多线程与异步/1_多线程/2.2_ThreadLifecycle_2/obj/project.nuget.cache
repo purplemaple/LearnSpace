@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A2o/4AHb4PQd3eQG65JHuLbIgWWAC5RqdhCMa9UHa7E/V3FLB2R+f8DafJ7yUwL6wqb29e7hlqvJ83cA8Yo9Lg==",
+  "dgSpecHash": "/fxkkjAeFR7FM9/D6XUbhgT4oD59E5AgOrU+pYDcVjy8k38QT2afsR+LPu8Hl7HWs2kKwLBdv5sm6CkZZQLvzw==",
   "success": true,
-  "projectFilePath": "D:\\LearnSpace\\Code\\C#进阶\\多线程\\2.2_ThreadLifecycle_2\\2.2_ThreadLifecycle_2.csproj",
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\1_多线程\\2.2_ThreadLifecycle_2\\2.2_ThreadLifecycle_2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

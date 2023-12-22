@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
+      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\2_异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
       "projectName": "1.5_async_voidExample_2",
-      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
+      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\2_异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\1.5_async_voidExample_2\\obj\\",
+      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\2_异步\\1.5_async_voidExample_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

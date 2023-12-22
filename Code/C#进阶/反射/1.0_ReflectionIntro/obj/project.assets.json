@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\C# for VS_Code\\C#进阶\\反射\\1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
+      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\反射\\1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
       "projectName": "1.0_ReflectionIntro",
-      "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\反射\\1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
+      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\反射\\1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\C# for VS_Code\\C#进阶\\反射\\1.0_ReflectionIntro\\obj\\",
+      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\反射\\1.0_ReflectionIntro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Code\\C# for VS_Code\\C#进阶\\反射\\SqlServerDB\\SqlServerDB.csproj": {
-              "projectPath": "E:\\Code\\C# for VS_Code\\C#进阶\\反射\\SqlServerDB\\SqlServerDB.csproj"
+            "F:\\LearnSpace\\Code\\C#进阶\\反射\\SqlServerDB\\SqlServerDB.csproj": {
+              "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\反射\\SqlServerDB\\SqlServerDB.csproj"
             }
           }
         }
@@ -89,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

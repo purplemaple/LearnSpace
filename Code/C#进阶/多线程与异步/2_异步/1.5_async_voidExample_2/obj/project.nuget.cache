@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "em7MXduNgVbnxuKDZuTcRHHmH2zXVUgZpNIjGofEMSUYL11pYjFatGp4wUGNTA+gXWNNcmkzkaHxdqBSBCSXkg==",
+  "dgSpecHash": "9VHWsCkGXilLqS5oc70BIdS27Rr9KIpXXW2foeCIsWwk3/D0pFGy0WVI6pEdS7opayI7uJrC1HDbAkauW5WuLA==",
   "success": true,
-  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\2_异步\\1.5_async_voidExample_2\\1.5_async_voidExample_2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

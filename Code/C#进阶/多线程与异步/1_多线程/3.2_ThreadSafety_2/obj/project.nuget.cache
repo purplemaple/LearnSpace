@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pFUhzgiPRPTWJdCmB6HMZbjEcbwrZvbcM2VdU+6/H9GOFVr+4Fxn9WJNTeMBLS5/6ZxzYuieKdGTBlaR9EPwVQ==",
+  "dgSpecHash": "D3Ikj8qgG9ynC0vT2rDMMhOeoTy/4ZJ9Nt9taz4xlskzqHR32Lnb6vqk1GhhxNPlhQohgaUqLzGE3lb7hWFuOw==",
   "success": true,
-  "projectFilePath": "D:\\LearnSpace\\Code\\C#进阶\\多线程\\3.2_ThreadSafety_2\\3.2_ThreadSafety_2.csproj",
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\1_多线程\\3.2_ThreadSafety_2\\3.2_ThreadSafety_2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

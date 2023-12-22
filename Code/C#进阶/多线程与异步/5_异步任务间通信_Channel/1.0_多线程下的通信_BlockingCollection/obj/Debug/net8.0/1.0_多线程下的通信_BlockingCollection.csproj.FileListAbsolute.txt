@@ -1,0 +1,15 @@
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\bin\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.exe
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\bin\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.deps.json
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\bin\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.runtimeconfig.json
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\bin\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.dll
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\bin\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.pdb
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.AssemblyInfoInputs.cache
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.AssemblyInfo.cs
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.csproj.CoreCompileInputs.cache
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.sourcelink.json
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.dll
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\refint\1.0_多线程下的通信_BlockingCollection.dll
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.pdb
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\1.0_多线程下的通信_BlockingCollection.genruntimeconfig.cache
+F:\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\1.0_多线程下的通信_BlockingCollection\obj\Debug\net8.0\ref\1.0_多线程下的通信_BlockingCollection.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CUhLt+eBJUxTld1scCtQMDssWoXctBhHzU0vwY3O0EmAuf7tS4/6Qm8SqMxSa+ZxDhczgjbYpgHV63N5C2teFw==",
+  "dgSpecHash": "H7AuTNWf8HtAzvNMMB3Efrjn8dkb3NSbfYkG1m5niMrZVORXA5UXoCtCvPUvknyiqZSqtjJBJ0RNX4Y9Npd1iw==",
   "success": true,
-  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\异步\\1.1_TaskExample_1\\1.1_TaskExample_1.csproj",
+  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\2_异步\\1.1_TaskExample_1\\1.1_TaskExample_1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
