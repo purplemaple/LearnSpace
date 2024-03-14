@@ -79,10 +79,6 @@ async Task ReceiveMessageAsync(ChannelReader<Message> reader, int id)
 {
     /*try
     {
-        *//* 注：
-         * 1. 关闭 channel 时调用的是 Writer 上的 Complete()，而消费时判断的是 Reader 上的 Completion.IsCompleted。
-         * 2. 当调用 Writer.Complete() 且队列中没有任何消息时，Reader.Completion.IsCompleted 才会变成 true
-         *//*
         while (!reader.Completion.IsCompleted)
         {
             Message message = await reader.ReadAsync();

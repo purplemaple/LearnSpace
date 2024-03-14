@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{EF76DC2E-69A4-418C-BE1E-A0F8CAE88F1B}|2.5_Channel_Async_Complete_AwaitForeach\\2.5_Channel_Async_Complete_AwaitForeach.csproj|solutionrelative:2.5_channel_async_complete_awaitforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{711768C1-4D80-4098-8BE2-036D51B707FF}|2.4_Channel_Async_Complete_2\\2.4_Channel_Async_Complete_2.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_channel\\2.4_channel_async_complete_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{711768C1-4D80-4098-8BE2-036D51B707FF}|2.4_Channel_Async_Complete_2\\2.4_Channel_Async_Complete_2.csproj|solutionrelative:2.4_channel_async_complete_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61E35FC0-E9BD-464C-8823-C6C8CE78A2BD}|2.3_Channel_Async_Complete\\2.3_Channel_Async_Complete.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_channel\\2.3_channel_async_complete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61E35FC0-E9BD-464C-8823-C6C8CE78A2BD}|2.3_Channel_Async_Complete\\2.3_Channel_Async_Complete.csproj|solutionrelative:2.3_channel_async_complete\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.4_Channel_Async_Complete_2\\Program.cs",
+              "RelativeDocumentMoniker": "2.4_Channel_Async_Complete_2\\Program.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.4_Channel_Async_Complete_2\\Program.cs",
+              "RelativeToolTip": "2.4_Channel_Async_Complete_2\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:27:02.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "2.4_Channel_Async_Complete_2.csproj",
               "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.4_Channel_Asynv_Complete_2\\2.4_Channel_Async_Complete_2.csproj",
               "RelativeDocumentMoniker": "2.4_Channel_Asynv_Complete_2\\2.4_Channel_Async_Complete_2.csproj",
@@ -68,14 +85,14 @@
               "RelativeDocumentMoniker": "2.5_Channel_Async_Complete_AwaitForeach\\Program.cs",
               "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.5_Channel_Async_Complete_AwaitForeach\\Program.cs",
               "RelativeToolTip": "2.5_Channel_Async_Complete_AwaitForeach\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABbAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T09:51:02.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.4_Channel_Asynv_Complete_2\\Program.cs",
               "RelativeDocumentMoniker": "2.4_Channel_Asynv_Complete_2\\Program.cs",
@@ -87,51 +104,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.3_Channel_Async_Complete\\Program.cs",
               "RelativeDocumentMoniker": "2.3_Channel_Async_Complete\\Program.cs",
               "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.3_Channel_Async_Complete\\Program.cs",
               "RelativeToolTip": "2.3_Channel_Async_Complete\\Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAIwFgAAAArAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEoAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T09:09:11.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.2_Channel_Async\\Program.cs",
-              "RelativeDocumentMoniker": "2.2_Channel_Async\\Program.cs",
-              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.2_Channel_Async\\Program.cs",
-              "RelativeToolTip": "2.2_Channel_Async\\Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAFoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T08:46:37.18Z"
+              "WhenOpened": "2024-03-13T09:09:11.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.1_Channel_Sync\\Program.cs",
-              "RelativeDocumentMoniker": "2.1_Channel_Sync\\Program.cs",
-              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.1_Channel_Sync\\Program.cs",
-              "RelativeToolTip": "2.1_Channel_Sync\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABBAAAA",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.2_Channel_Async\\Program.cs",
+              "RelativeDocumentMoniker": "2.2_Channel_Async\\Program.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.2_Channel_Async\\Program.cs",
+              "RelativeToolTip": "2.2_Channel_Async\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T08:45:37.676Z"
+              "WhenOpened": "2024-03-13T08:46:37.18Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.1_Channel_Sync\\Program.cs",
+              "RelativeDocumentMoniker": "2.1_Channel_Sync\\Program.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\2.1_Channel_Sync\\Program.cs",
+              "RelativeToolTip": "2.1_Channel_Sync\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T08:45:37.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\1.0_BlockingCollection\\Program.cs",
               "RelativeDocumentMoniker": "1.0_BlockingCollection\\Program.cs",
               "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\5_\u5F02\u6B65\u4EFB\u52A1\u95F4\u901A\u4FE1_Channel\\1.0_BlockingCollection\\Program.cs",
               "RelativeToolTip": "1.0_BlockingCollection\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEQAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T08:43:37.6Z"
+              "WhenOpened": "2024-03-13T08:43:37.6Z",
+              "EditorCaption": ""
             }
           ]
         }

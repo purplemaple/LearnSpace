@@ -40,12 +40,13 @@ UnboundedChannelOptions UnboundedOptions = new()
 var channel = Channel.CreateUnbounded<Message>(UnboundedOptions);
 
 //生产者
-Task senderTask1 = SendMessageAsync(channel.Writer, 0);
-Task senderTask2 = SendMessageAsync(channel.Writer, 1);
+Task senderTask0 = SendMessageAsync(channel.Writer, 0);
+Task senderTask1 = SendMessageAsync(channel.Writer, 1);
 //消费者
-Task receiverTask = ReceiveMessageAsync(channel.Reader, 2);
+Task receiverTask2 = ReceiveMessageAsync(channel.Reader, 2);
+Task receiverTask3 = ReceiveMessageAsync(channel.Reader, 3);
 
-await Task.WhenAll(senderTask1, senderTask2);
+await Task.WhenAll(senderTask0, senderTask1);
 //make sure all message are received
 /*
  * 这里的 Delay 可以不需要了，因为当队列中还有消息没有被消费完时，即使调用了 channel.Writer.Complete()，也不会立刻关闭掉 channel
@@ -57,7 +58,8 @@ await Task.WhenAll(senderTask1, senderTask2);
 
 channel.Writer.Complete();
 
-await receiverTask;
+await receiverTask2;
+await receiverTask3;
 
 Console.WriteLine("Press any key to exit...");
 Console.ReadKey();

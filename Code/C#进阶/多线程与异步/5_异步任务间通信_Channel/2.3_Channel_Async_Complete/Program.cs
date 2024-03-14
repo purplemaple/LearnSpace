@@ -1,4 +1,4 @@
-﻿// 3. 在使用 Channel 时，如果任务已经完成，则一般采用 channel.Writer.Complete() 这种 Channe了源生方法关闭 Channel，而不是用 CancellationToken
+﻿// 3. 在使用 Channel 时，如果任务已经完成，则一般采用 channel.Writer.Complete() 这种 Channel 的源生方法关闭 Channel，而不是用 CancellationToken
 
 using System.Threading.Channels;
 
@@ -48,6 +48,11 @@ await senderTask;
 //make sure all message are received
 await Task.Delay(100);
 
+/*
+ * 注意：
+ *      1. 这里是在 Channel 对象的 Writer 上调用
+ *      2. 下面判断时是在 Channel 对象的 Reader 的属性上判断
+ */
 channel.Writer.Complete();
 
 await receiverTask;
