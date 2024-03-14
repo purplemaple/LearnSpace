@@ -13,3 +13,6 @@ F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态�
 F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\1.0_NonStatePattern\obj\Debug\net7.0\1.0_NonStatePattern.pdb
 F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\1.0_NonStatePattern\obj\Debug\net7.0\1.0_NonStatePattern.genruntimeconfig.cache
 F:\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\1.0_NonStatePattern\obj\Debug\net7.0\ref\1.0_NonStatePattern.dll
+D:\Git repository\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\1.0_NonStatePattern\obj\Debug\net7.0\1.0_NonStatePattern.dll
+D:\Git repository\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\1.0_NonStatePattern\obj\Debug\net7.0\refint\1.0_NonStatePattern.dll
+D:\Git repository\LearnSpace\Code\C#进阶\设计模式\2_二十三种设计模式\21.0_状态设计模式\1.0_NonStatePattern\obj\Debug\net7.0\1.0_NonStatePattern.pdb

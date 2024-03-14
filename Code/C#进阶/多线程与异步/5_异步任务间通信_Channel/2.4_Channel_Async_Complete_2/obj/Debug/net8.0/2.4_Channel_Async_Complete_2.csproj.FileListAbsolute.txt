@@ -1,0 +1,15 @@
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\bin\Debug\net8.0\2.4_Channel_Async_Complete_2.exe
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\bin\Debug\net8.0\2.4_Channel_Async_Complete_2.deps.json
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\bin\Debug\net8.0\2.4_Channel_Async_Complete_2.runtimeconfig.json
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\bin\Debug\net8.0\2.4_Channel_Async_Complete_2.dll
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\bin\Debug\net8.0\2.4_Channel_Async_Complete_2.pdb
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\2.4_Channel_Async_Complete_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\2.4_Channel_Async_Complete_2.AssemblyInfoInputs.cache
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\2.4_Channel_Async_Complete_2.AssemblyInfo.cs
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\2.4_Channel_Async_Complete_2.csproj.CoreCompileInputs.cache
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\2.4_Channel_Async_Complete_2.sourcelink.json
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\2.4_Channel_Async_Complete_2.dll
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\refint\2.4_Channel_Async_Complete_2.dll
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\2.4_Channel_Async_Complete_2.pdb
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\2.4_Channel_Async_Complete_2.genruntimeconfig.cache
+D:\Git repository\LearnSpace\Code\C#进阶\多线程与异步\5_异步任务间通信_Channel\2.4_Channel_Async_Complete_2\obj\Debug\net8.0\ref\2.4_Channel_Async_Complete_2.dll

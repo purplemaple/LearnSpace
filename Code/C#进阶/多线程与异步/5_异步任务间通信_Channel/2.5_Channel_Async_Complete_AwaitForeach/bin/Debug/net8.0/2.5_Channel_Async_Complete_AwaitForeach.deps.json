@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2.5_Channel_Async_Complete_AwaitForeach/1.0.0": {
+        "runtime": {
+          "2.5_Channel_Async_Complete_AwaitForeach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2.5_Channel_Async_Complete_AwaitForeach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
