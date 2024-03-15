@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "j8MCKqtkrfeBVMlnHEfzOz4iNy64+7ZSFvQ0n+bT5DJq11J90nZ2Yg8sd2ThUMK61y45411dgnFA0KwKP424jg==",
+  "success": true,
+  "projectFilePath": "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2 Overload for Service Method\\1.2 Overload for Service Method.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://192.168.4.221:8080/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

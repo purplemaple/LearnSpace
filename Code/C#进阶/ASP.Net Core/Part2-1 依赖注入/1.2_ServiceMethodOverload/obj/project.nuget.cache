@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "0REr7C4IO80gIzc0wEJRZKbmHxPN+I9HErC+NU1Hf0SZPYBPHIuTVuwiVY3BPtSS1sQ6Rn3cXxQhvgZ7DagMLA==",
+  "success": true,
+  "projectFilePath": "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shiwei.Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Shiwei.Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://192.168.4.221:8080/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
