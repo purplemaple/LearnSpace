@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1.2_ServiceMethodOverload")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b8c030af3cd44b45f210bf4d2e945ec9a1abd9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("1.2_ServiceMethodOverload")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1.2_ServiceMethodOverload")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

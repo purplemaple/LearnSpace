@@ -1,18 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BUyYzLVP+0AtwPJRfGKAZJQsFsgY2Xh6CRAjTpH5Ws0/dQn7nFQU2Fh7xtOe4wzXeLnIkUAvuprzlwC+eg1g2g==",
+  "dgSpecHash": "XdY+AxH5pyDPVdbvpvF03HzkRDqv4UD0GSgmhxeHiq9Mp/wxsnTVE14ARP5D5qaiwgL9YTtC6eZXjCovyp/5VQ==",
   "success": true,
-  "projectFilePath": "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj",
+  "projectFilePath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Shiwei.Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "C:\\Users\\Shiwei.Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "正在通过 “HTTP” 源“http://192.168.4.221:8080/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
-    }
-  ]
+  "logs": []
 }

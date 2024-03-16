@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj": {}
+    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj": {}
   },
   "projects": {
-    "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj": {
+    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj",
+        "projectUniqueName": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj",
         "projectName": "1.2_ServiceMethodOverload",
-        "projectPath": "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj",
-        "packagesPath": "C:\\Users\\Shiwei.Huang\\.nuget\\packages\\",
-        "outputPath": "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\obj\\",
+        "projectPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj",
+        "packagesPath": "C:\\Users\\Huang\\.nuget\\packages\\",
+        "outputPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programming\\VS2022\\共享组件、工具和SDK\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Shiwei.Huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.4.221:8080/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
