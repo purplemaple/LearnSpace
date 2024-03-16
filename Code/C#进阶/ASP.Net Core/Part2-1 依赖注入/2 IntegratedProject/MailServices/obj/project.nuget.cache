@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dp7ZhTLfJqQGB8pe+1q4ATL0FA+wi6QeEO9PwDF0/OExQCYwvybrmtoBwqv6vcZd7749HAPYwZYklM3jQ1j4zQ==",
+  "success": true,
+  "projectFilePath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\2 IntegratedProject\\MailServices\\MailServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

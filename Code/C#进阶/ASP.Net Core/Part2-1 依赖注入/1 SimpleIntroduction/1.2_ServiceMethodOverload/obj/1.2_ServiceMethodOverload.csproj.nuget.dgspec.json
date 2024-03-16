@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj": {}
+    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj": {}
   },
   "projects": {
-    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj": {
+    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj",
+        "projectUniqueName": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj",
         "projectName": "1.2_ServiceMethodOverload",
-        "projectPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj",
+        "projectPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.2_ServiceMethodOverload\\1.2_ServiceMethodOverload.csproj",
         "packagesPath": "C:\\Users\\Huang\\.nuget\\packages\\",
-        "outputPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.2_ServiceMethodOverload\\obj\\",
+        "outputPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.2_ServiceMethodOverload\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programming\\VS2022\\共享组件、工具和SDK\\NuGetPackages"

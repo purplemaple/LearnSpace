@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Bc60xFtDAhXVoXf6KQaqHws952DzjCvxT4DI6qchPNNTitkguZWNzePUT4JfhWEoZfFooljvlIMINls623Npw==",
+  "success": true,
+  "projectFilePath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\2 IntegratedProject\\MainProcess\\MainProcess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Huang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

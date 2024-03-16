@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj": {}
+    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj": {}
   },
   "projects": {
-    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj": {
+    "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj",
+        "projectUniqueName": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj",
         "projectName": "1.1_ServiceLifeCycle",
-        "projectPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj",
+        "projectPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.1_ServiceLifeCycle\\1.1_ServiceLifeCycle.csproj",
         "packagesPath": "C:\\Users\\Huang\\.nuget\\packages\\",
-        "outputPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1.1_ServiceLifeCycle\\obj\\",
+        "outputPath": "D:\\LearnSpace\\Code\\C#进阶\\ASP.Net Core\\Part2-1 依赖注入\\1 SimpleIntroduction\\1.1_ServiceLifeCycle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programming\\VS2022\\共享组件、工具和SDK\\NuGetPackages"

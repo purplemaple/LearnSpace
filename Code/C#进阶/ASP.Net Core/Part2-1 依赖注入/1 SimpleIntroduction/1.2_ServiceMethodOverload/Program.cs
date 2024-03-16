@@ -6,11 +6,12 @@ ServiceCollection service = new ServiceCollection();
 //service.AddScoped(typeof(ITestService), typeof(TestServiceImpl1));
 
 /*
- * 注意：这种重载只有 AddSingleton 可以用，其他两种都不能
+ * 注意：这种在传入实现类时直接 new 的重载只有 AddSingleton 可以用，其他两种需要传入回调函数(详见)
  * 适用于：实现类需要初始化某些属性时，可以先初始化实现类，然后再传入使用
  */
 service.AddSingleton(typeof (ITestService), new TestServiceImpl1());
-
+//瞬态注册，传入回调函数示例：
+//service.AddTransient(typeof(ITestService), _ => new TestServiceImpl1());
 
 using (ServiceProvider sp = service.BuildServiceProvider())
 {

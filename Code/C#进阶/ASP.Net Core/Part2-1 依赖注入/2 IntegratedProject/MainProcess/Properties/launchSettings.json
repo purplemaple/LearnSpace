@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MainProcess": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SmtpServer": "HrxHrx.com"
+      }
+    }
+  }
+}
