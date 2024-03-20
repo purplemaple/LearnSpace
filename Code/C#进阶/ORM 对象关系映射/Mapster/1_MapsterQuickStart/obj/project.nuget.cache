@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Le1wH2eGI3wG+1+lTd4A1VnkKPEVp8QQECFru3zmwdJM9B3utGt2X80+0gLAQZPcBG89kxDJ5BIzV14WPgNayg==",
+  "success": true,
+  "projectFilePath": "D:\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\1_MapsterQuickStart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huang\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Huang\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
