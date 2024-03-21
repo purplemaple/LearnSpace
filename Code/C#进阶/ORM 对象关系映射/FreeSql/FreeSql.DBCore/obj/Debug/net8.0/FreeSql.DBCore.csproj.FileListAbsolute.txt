@@ -1,0 +1,13 @@
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\bin\Debug\net8.0\FreeSql.DBCore.deps.json
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\bin\Debug\net8.0\FreeSql.DBCore.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\bin\Debug\net8.0\FreeSql.DBCore.pdb
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\FreeSql.DBCore.csproj.AssemblyReference.cache
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\FreeSql.DBCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\FreeSql.DBCore.AssemblyInfoInputs.cache
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\FreeSql.DBCore.AssemblyInfo.cs
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\FreeSql.DBCore.csproj.CoreCompileInputs.cache
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\FreeSql.DBCore.sourcelink.json
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\FreeSql.DBCore.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\refint\FreeSql.DBCore.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\FreeSql.DBCore.pdb
+D:\Git repository\LearnSpace\Code\C#进阶\ORM 对象关系映射\FreeSql\FreeSql.DBCore\obj\Debug\net8.0\ref\FreeSql.DBCore.dll

@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF38276-71BA-4392-B52F-63D877486D27}|1_FreeSqlQuickStart\\1_FreeSqlQuickStart.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\orm \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\freesql\\1_freesqlquickstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF38276-71BA-4392-B52F-63D877486D27}|1_FreeSqlQuickStart\\1_FreeSqlQuickStart.csproj|solutionrelative:1_freesqlquickstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\orm \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\freesql\\freesql.dbcore\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|solutionrelative:freesql.dbcore\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\orm \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\freesql\\freesql.dbcore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|solutionrelative:freesql.dbcore\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\orm \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\freesql\\freesql.dbcore\\entities\\usermenumap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|solutionrelative:freesql.dbcore\\entities\\usermenumap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\orm \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\freesql\\freesql.dbcore\\entities\\companycopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|solutionrelative:freesql.dbcore\\entities\\companycopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\orm \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\freesql\\freesql.dbcore\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|solutionrelative:freesql.dbcore\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\orm \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\freesql\\freesql.dbcore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|solutionrelative:freesql.dbcore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\orm \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\freesql\\freesql.dbcore\\entities\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD60B05-A3EF-42F8-9F3E-3EB0800F9E9D}|FreeSql.DBCore\\FreeSql.DBCore.csproj|solutionrelative:freesql.dbcore\\entities\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 362,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserMenuMap.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\UserMenuMap.cs",
+              "RelativeDocumentMoniker": "FreeSql.DBCore\\Entities\\UserMenuMap.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\UserMenuMap.cs",
+              "RelativeToolTip": "FreeSql.DBCore\\Entities\\UserMenuMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:33:46.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "FreeSql.DBCore\\Entities\\Menu.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\Menu.cs",
+              "RelativeToolTip": "FreeSql.DBCore\\Entities\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:31:10.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "FreeSql.DBCore\\GlobalUsings.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\GlobalUsings.cs",
+              "RelativeToolTip": "FreeSql.DBCore\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:30:05.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\1_FreeSqlQuickStart\\Program.cs",
+              "RelativeDocumentMoniker": "1_FreeSqlQuickStart\\Program.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\1_FreeSqlQuickStart\\Program.cs",
+              "RelativeToolTip": "1_FreeSqlQuickStart\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:24:53.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "FreeSql.DBCore\\Entities\\User.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\User.cs",
+              "RelativeToolTip": "FreeSql.DBCore\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:32:14.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompanyCopy.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\CompanyCopy.cs",
+              "RelativeDocumentMoniker": "FreeSql.DBCore\\Entities\\CompanyCopy.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\CompanyCopy.cs",
+              "RelativeToolTip": "FreeSql.DBCore\\Entities\\CompanyCopy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:29:20.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\UserDetail.cs",
+              "RelativeDocumentMoniker": "FreeSql.DBCore\\Entities\\UserDetail.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\UserDetail.cs",
+              "RelativeToolTip": "FreeSql.DBCore\\Entities\\UserDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:33:02.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "FreeSql.DBCore\\Entities\\Company.cs",
+              "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\FreeSql.DBCore\\Entities\\Company.cs",
+              "RelativeToolTip": "FreeSql.DBCore\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:25:31.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
