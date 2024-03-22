@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreeSql.DBCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58e58d6b19b6201e7b9036c7f478586debf7726e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1389f180de16105d7a34b5c50cda0566158073b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreeSql.DBCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreeSql.DBCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
