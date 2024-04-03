@@ -1,0 +1,27 @@
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\config.json
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\1 SimpleIntroduction.exe
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\1 SimpleIntroduction.deps.json
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\1 SimpleIntroduction.runtimeconfig.json
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\1 SimpleIntroduction.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\1 SimpleIntroduction.pdb
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 SimpleIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 SimpleIntroduction.AssemblyInfoInputs.cache
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 SimpleIntroduction.AssemblyInfo.cs
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 SimpleIntroduction.csproj.CoreCompileInputs.cache
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 SimpleIntroduction.sourcelink.json
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 SimpleIntroduction.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\refint\1 SimpleIntroduction.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 SimpleIntroduction.pdb
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 SimpleIntroduction.genruntimeconfig.cache
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\ref\1 SimpleIntroduction.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 SimpleIntroduction.csproj.AssemblyReference.cache
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\obj\Debug\net8.0\1 Simple.1060FC6B.Up2Date
+D:\Git repository\LearnSpace\Code\C#进阶\ASP.Net Core\Part2-2 配置系统\1 SimpleIntroduction\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll

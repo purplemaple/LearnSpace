@@ -11,4 +11,3 @@ internal class User
         return "User { Id = " + Id + "， " + "FirstName = " + FirstName + ", " + "LastName = " + LastName + " }";
     }
 }
-

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\1_MapsterQuickStart.csproj": {}
+    "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\1_MapsterQuickStart.csproj": {}
   },
   "projects": {
-    "D:\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\1_MapsterQuickStart.csproj": {
+    "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\1_MapsterQuickStart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\1_MapsterQuickStart.csproj",
+        "projectUniqueName": "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\1_MapsterQuickStart.csproj",
         "projectName": "1_MapsterQuickStart",
-        "projectPath": "D:\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\1_MapsterQuickStart.csproj",
-        "packagesPath": "C:\\Users\\Huang\\.nuget\\packages\\",
-        "outputPath": "D:\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\obj\\",
+        "projectPath": "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\1_MapsterQuickStart.csproj",
+        "packagesPath": "C:\\Users\\Shiwei.Huang\\.nuget\\packages\\",
+        "outputPath": "D:\\Git repository\\LearnSpace\\Code\\C#进阶\\ORM 对象关系映射\\Mapster\\1_MapsterQuickStart\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Programming\\VS2022\\共享组件、工具和SDK\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Shiwei.Huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.4.221:8080/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

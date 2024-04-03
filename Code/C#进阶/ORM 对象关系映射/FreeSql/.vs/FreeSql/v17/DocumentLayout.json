@@ -91,15 +91,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "1.3_Update",
+              "Title": "1.3_Update.csproj",
               "DocumentMoniker": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\1.3_Update\\1.3_Update.csproj",
               "RelativeDocumentMoniker": "1.3_Update\\1.3_Update.csproj",
               "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\1.3_Update\\1.3_Update.csproj",
               "RelativeToolTip": "1.3_Update\\1.3_Update.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-22T08:54:45.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T08:54:45.406Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "1.1_Insert\\Program.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T08:51:34.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T08:51:34.616Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "RelativeToolTip": "1.2_Delete\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T08:48:11.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T08:48:11.927Z"
             },
             {
               "$type": "Document",
@@ -135,7 +132,7 @@
               "RelativeDocumentMoniker": "1.3_Update\\Program.cs",
               "ToolTip": "D:\\Git repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\ORM \u5BF9\u8C61\u5173\u7CFB\u6620\u5C04\\FreeSql\\1.3_Update\\Program.cs",
               "RelativeToolTip": "1.3_Update\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAA2wCkAAAAeAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswBsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T08:48:07.594Z",
               "EditorCaption": ""
@@ -150,8 +147,7 @@
               "RelativeToolTip": "1.4_Query\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T08:46:03.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T08:46:03.804Z"
             }
           ]
         }

@@ -147,7 +147,8 @@ var config = TypeAdapterConfig.GlobalSettings;
 
 TypeAdapterConfig<(User User, Guid TraceId), UserResponse>.NewConfig()
     .Map(dest => dest.TraceId, src => src.TraceId)
-    .Map(dest => dest.Id, src => src.User.Id);
+    .Map(dest => dest.Id, src => src.User.Id)
+    .Map(dest => dest.FullName, src => $"{src.User.FirstName}.{src.User.LastName}");
 
 config.ForDestinationType<IValidatable>()
     .AfterMapping(dest => dest.Validate());

@@ -1,0 +1,6 @@
+{
+  "name": "hrx",
+  "age1": -1,
+  "age2": "-1",
+  "proxy": {"address": "aa", "port": "6666"}
+}
