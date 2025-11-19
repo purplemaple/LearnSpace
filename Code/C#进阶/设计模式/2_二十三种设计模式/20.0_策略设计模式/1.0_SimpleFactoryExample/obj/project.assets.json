@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages": {}
+    "C:\\Users\\Huang\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\20.0_策略设计模式\\1.0_SimpleFactoryExample\\1.0_SimpleFactoryExample.csproj",
+      "projectUniqueName": "D:\\Git Repository\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\20.0_策略设计模式\\1.0_SimpleFactoryExample\\1.0_SimpleFactoryExample.csproj",
       "projectName": "1.0_SimpleFactoryExample",
-      "projectPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\20.0_策略设计模式\\1.0_SimpleFactoryExample\\1.0_SimpleFactoryExample.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\20.0_策略设计模式\\1.0_SimpleFactoryExample\\obj\\",
+      "projectPath": "D:\\Git Repository\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\20.0_策略设计模式\\1.0_SimpleFactoryExample\\1.0_SimpleFactoryExample.csproj",
+      "packagesPath": "C:\\Users\\Huang\\.nuget\\packages\\",
+      "outputPath": "D:\\Git Repository\\LearnSpace\\Code\\C#进阶\\设计模式\\2_二十三种设计模式\\20.0_策略设计模式\\1.0_SimpleFactoryExample\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +41,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net7.0": {
@@ -66,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

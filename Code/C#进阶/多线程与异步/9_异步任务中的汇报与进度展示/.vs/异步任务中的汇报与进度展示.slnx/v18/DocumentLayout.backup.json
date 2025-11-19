@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git Repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\9_\u5F02\u6B65\u4EFB\u52A1\u4E2D\u7684\u6C47\u62A5\u4E0E\u8FDB\u5EA6\u5C55\u793A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0175A3F0-4F90-E8D3-3281-64BD4FEC1B28}|1.1_ProgressForEvent\\1.1_ProgressForEvent.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\9_\u5F02\u6B65\u4EFB\u52A1\u4E2D\u7684\u6C47\u62A5\u4E0E\u8FDB\u5EA6\u5C55\u793A\\1.1_progressforevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0175A3F0-4F90-E8D3-3281-64BD4FEC1B28}|1.1_ProgressForEvent\\1.1_ProgressForEvent.csproj|solutionrelative:1.1_progressforevent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0175A3F0-4F90-E8D3-3281-64BD4FEC1B28}|1.1_ProgressForEvent\\1.1_ProgressForEvent.csproj|d:\\git repository\\learnspace\\code\\c#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\9_\u5F02\u6B65\u4EFB\u52A1\u4E2D\u7684\u6C47\u62A5\u4E0E\u8FDB\u5EA6\u5C55\u793A\\1.1_progressforevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0175A3F0-4F90-E8D3-3281-64BD4FEC1B28}|1.1_ProgressForEvent\\1.1_ProgressForEvent.csproj|solutionrelative:1.1_progressforevent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\9_\u5F02\u6B65\u4EFB\u52A1\u4E2D\u7684\u6C47\u62A5\u4E0E\u8FDB\u5EA6\u5C55\u793A\\1.1_ProgressForEvent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "1.1_ProgressForEvent\\MainWindow.xaml",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\9_\u5F02\u6B65\u4EFB\u52A1\u4E2D\u7684\u6C47\u62A5\u4E0E\u8FDB\u5EA6\u5C55\u793A\\1.1_ProgressForEvent\\MainWindow.xaml",
+              "RelativeToolTip": "1.1_ProgressForEvent\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-18T16:25:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\9_\u5F02\u6B65\u4EFB\u52A1\u4E2D\u7684\u6C47\u62A5\u4E0E\u8FDB\u5EA6\u5C55\u793A\\1.1_ProgressForEvent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "1.1_ProgressForEvent\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\C#\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\9_\u5F02\u6B65\u4EFB\u52A1\u4E2D\u7684\u6C47\u62A5\u4E0E\u8FDB\u5EA6\u5C55\u793A\\1.1_ProgressForEvent\\MainWindow.xaml.cs",
+              "RelativeToolTip": "1.1_ProgressForEvent\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T16:25:07.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
