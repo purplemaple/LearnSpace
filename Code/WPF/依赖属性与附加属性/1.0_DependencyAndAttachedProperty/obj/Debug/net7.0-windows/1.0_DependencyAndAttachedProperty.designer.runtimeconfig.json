@@ -12,9 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Admin\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Admin\\.nuget\\packages",
-      "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
+      "C:\\Users\\Huang\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Huang\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="1.1_ProgressForEvent/1.1_ProgressForEvent.csproj" />
+  <Project Path="1.2_ProgressForMVVM/1.2_ProgressForMVVM.csproj" Id="e532864b-a58d-446f-9ff7-4127ed43e637" />
+  <Project Path="2.1_IAsyncEnumberableForMVVM/2.1_IAsyncEnumberableForMVVM.csproj" Id="d1868b6e-1ee0-4670-ac9b-865e737d6ee8" />
 </Solution>

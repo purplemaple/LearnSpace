@@ -1,0 +1,28 @@
+﻿<Window x:Class="_2._1_IAsyncEnumberableForMVVM.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2._1_IAsyncEnumberableForMVVM.View"
+        xmlns:VMs="clr-namespace:_2._1_IAsyncEnumberableForMVVM.ViewModel"
+        d:DataContext="{d:DesignInstance VMs:MainViewModel}"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="20, 0"
+                VerticalAlignment="Center">
+        <Button Name="button"
+                Width="100"
+                Margin="0,0,0,10"
+                Content="Run"
+                Command="{Binding StartWorkCommand}" />
+        <ProgressBar Height="20"
+                     d:Value="10"
+                     Value="{Binding ProgressValue}"
+                     Maximum="{Binding ProgressMaximum}"/>
+
+        <TextBlock Margin="5"
+                   Width="200"
+                   FontSize="16"
+                   Text="{Binding ProgressText}" />
+    </StackPanel>
+</Window>

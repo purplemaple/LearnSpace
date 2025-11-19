@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\LearnSpace\Code\WPF\DataGrid扩展功能\1.0_DataFilter\obj\Debug\net7.0-windows\
+D:\Git Repository\LearnSpace\Code\WPF\DataGrid扩展功能\1.0_DataFilter\obj\Debug\net7.0-windows\
 _1._0_DataFilter
 none
 false
-TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-F:\LearnSpace\Code\WPF\DataGrid扩展功能\1.0_DataFilter\App.xaml
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Git Repository\LearnSpace\Code\WPF\DataGrid扩展功能\1.0_DataFilter\App.xaml
 21875886075
 
 8175555424
-199-862699476
+199268450440
 View\MainWindow.xaml;View\Resources.xaml;
 
-False
+True
 

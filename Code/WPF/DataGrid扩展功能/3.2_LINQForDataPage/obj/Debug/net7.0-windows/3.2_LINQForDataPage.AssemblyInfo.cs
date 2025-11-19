@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3.2_LINQForDataPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b90f4d9f9e8d187bdf13825330bf8043a36d9249")]
 [assembly: System.Reflection.AssemblyProductAttribute("3.2_LINQForDataPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3.2_LINQForDataPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
