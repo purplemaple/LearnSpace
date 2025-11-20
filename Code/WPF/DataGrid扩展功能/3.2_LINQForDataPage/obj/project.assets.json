@@ -51,24 +51,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages": {}
+    "C:\\Users\\Huang\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\LearnSpace\\Code\\WPF\\DataGrid扩展功能\\3.2_LINQForDataPage\\3.2_LINQForDataPage.csproj",
+      "projectUniqueName": "D:\\Git Repository\\LearnSpace\\Code\\WPF\\DataGrid扩展功能\\3.2_LINQForDataPage\\3.2_LINQForDataPage.csproj",
       "projectName": "3.2_LINQForDataPage",
-      "projectPath": "F:\\LearnSpace\\Code\\WPF\\DataGrid扩展功能\\3.2_LINQForDataPage\\3.2_LINQForDataPage.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\LearnSpace\\Code\\WPF\\DataGrid扩展功能\\3.2_LINQForDataPage\\obj\\",
+      "projectPath": "D:\\Git Repository\\LearnSpace\\Code\\WPF\\DataGrid扩展功能\\3.2_LINQForDataPage\\3.2_LINQForDataPage.csproj",
+      "packagesPath": "C:\\Users\\Huang\\.nuget\\packages\\",
+      "outputPath": "D:\\Git Repository\\LearnSpace\\Code\\WPF\\DataGrid扩展功能\\3.2_LINQForDataPage\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "E:\\Visual Studio Community 2022\\共享组件、工具和SDK\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -76,6 +71,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -88,7 +84,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net7.0-windows7.0": {
@@ -118,7 +120,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jaCbpgVWAlw=",
+  "success": true,
+  "projectFilePath": "D:\\Git Repository\\LearnSpace\\Code\\C#进阶\\多线程与异步\\9_异步任务中的汇报与进度展示\\1.2_ProgressForMVVM\\1.2_ProgressForMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huang\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
