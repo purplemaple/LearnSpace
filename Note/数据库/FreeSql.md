@@ -44,3 +44,10 @@ fsql.Delete<User>()     .Where(u => u.Id == 1)     .ExecuteAffrows();  // 删除
 ```
 
 ## ToList() 与 ToListAsync() 区别？
+
+- **ToList()：** 同步执行，会阻塞当前线程，直到数据查询完成。对于 UI 线程而言，使用它会阻塞界面响应。
+
+- **ToListAsync()：** 异步执行，适合在 UI 线程中使用，避免 UI 被阻塞。它会异步等待数据查询并在完成后更新 UI。
+
+
+**推荐：** 在 WPF 或其他 UI 应用中，尽量使用 `ToListAsync()` 以避免阻塞 UI 线程。
