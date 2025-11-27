@@ -39,4 +39,3 @@ var usersWithOrders = fsql.Select<User>()
 
 N + 1 查询的影响：
 - 导致性能瓶颈，数据库负担增加，甚至可能导致应用崩溃
-## ORM解决了什么问题？
