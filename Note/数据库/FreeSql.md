@@ -49,5 +49,4 @@ fsql.Delete<User>()     .Where(u => u.Id == 1)     .ExecuteAffrows();  // 删除
 
 - **ToListAsync()：** 异步执行，适合在 UI 线程中使用，避免 UI 被阻塞。它会异步等待数据查询并在完成后更新 UI。
 
-
 **推荐：** 在 WPF 或其他 UI 应用中，尽量使用 `ToListAsync()` 以避免阻塞 UI 线程。
