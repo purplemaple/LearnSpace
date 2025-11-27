@@ -35,5 +35,5 @@ var usersWithOrders = fsql.Select<User>()
                            .Include(u => u.Orders)  // 一次性加载用户和订单
                            .ToList();
 ```
-
+或者使用`Join`语句进行联合查询
 ## ORM解决了什么问题？
