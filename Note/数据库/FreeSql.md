@@ -30,15 +30,17 @@ public static class FreeSqlFactory
 
 **查询：**
 ```cs
-`var users = fsql.Select<User>()                 .Where(u => u.Age > 20)                 .ToList();  // 查询年龄大于 20 的用户`
+var users = fsql.Select<User>()                 .Where(u => u.Age > 20)                 .ToList();  // 查询年龄大于 20 的用户`
 ```
 
 **更新：**
 ```cs
-`fsql.Update<User>()     .Set(u => u.Name, "Tom")     .Where(u => u.Id == 1)     .ExecuteAffrows();  // 更新指定 Id 的用户姓名`
+fsql.Update<User>()     .Set(u => u.Name, "Tom")     .Where(u => u.Id == 1)     .ExecuteAffrows();  // 更新指定 Id 的用户姓名`
 ```
 
 **删除：**
 ```cs
-`fsql.Delete<User>()     .Where(u => u.Id == 1)     .ExecuteAffrows();  // 删除指定 Id 的用户`
+fsql.Delete<User>()     .Where(u => u.Id == 1)     .ExecuteAffrows();  // 删除指定 Id 的用户`
 ```
+
+## ToList() 与 ToListAsync() 区别？
