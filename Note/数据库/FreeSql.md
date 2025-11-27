@@ -21,3 +21,5 @@ public static class FreeSqlFactory
         .Build();
 }
 ```
+
+## FreeSql 如何进行增删改查？
