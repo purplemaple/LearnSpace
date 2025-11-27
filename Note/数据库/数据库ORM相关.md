@@ -13,11 +13,27 @@
 
 **N + 1 查询问题：**
 
-**定义：
-**N+1 查询问题** 是指在查询时，主查询执行一次，之后每一个主查询结果的项又会发起一次查询，导致查询次数爆炸性增长。
+**定义：**
+ - N+1 查询问题是指在查询时，主查询执行一次，之后每一个主查询结果的项又会发起一次查询，导致查询次数爆炸性增长。
 
 例如：
 
 - 你查询了 1000 个用户，然后对于每个用户，又执行一次查询去加载其相关的订单信息。这样就会发起 **1 + 1000** 次查询，导致数据库性能问题。
+
+例子：
+```cs
+var users = fsql.Select<User>().ToList();  // 1 次查询用户
+foreach (var user in users)
+{
+    var orders = fsql.Select<Order>().Where(o => o.UserId == user.Id).ToList();  // 每次查询会发起 N 次查询
+}
+```
+
+解决方案：使用 **`Include`** 或 **`Join`** 语句，将所有需要的数据一次性查询出来，避免多次查询。
+```cs
+var usersWithOrders = fsql.Select<User>()
+                           .Include(u => u.Orders)  // 一次性加载用户和订单
+                           .ToList();
+```
 
 ## ORM解决了什么问题？
