@@ -25,8 +25,9 @@ public static class FreeSqlFactory
 ## FreeSql 如何进行增删改查？
 
 **插入：**
-
-`fsql.Insert(user).ExecuteAffrows(); // 插入一条数据`
+```cs
+fsql.Insert(user).ExecuteAffrows(); // 插入一条数据
+```
 
 **查询：**
 ```cs
