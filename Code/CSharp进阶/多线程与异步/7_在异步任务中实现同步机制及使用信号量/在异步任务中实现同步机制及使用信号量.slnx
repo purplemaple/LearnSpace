@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="1_AsyncLock/1_AsyncLock.csproj" />
+  <Project Path="2_SemaphoreSlim/2_SemaphoreSlim.csproj" Id="536ac406-63db-49b3-be8a-53f9c1cf9f10" />
+  <Project Path="3_AsyncAutoResetEvent/3_AsyncAutoResetEvent.csproj" Id="4ed9cbfe-6bc3-4f54-ba00-019169726fec" />
+  <Project Path="4_TaskCompletionSource/4_TaskCompletionSource.csproj" Id="fc42353d-828c-4894-af60-5b68ea24d354" />
+  <Project Path="5_Task/5_Task.csproj" Id="3a8fd684-bb83-46fc-b276-50efd5341849" />
+</Solution>

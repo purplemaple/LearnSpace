@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCjJYqPsJww=",
+  "success": true,
+  "projectFilePath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\多线程与异步\\11_利用AsyncBarrier实现多个异步任务的同时完成\\1_AsyncBarrier\\1_AsyncBarrier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huang\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "4_ThirdPartyClassLibWrapper": {
+      "commandName": "Project",
+      "commandLineArgs": "uncancelable"
+    }
+  }
+}

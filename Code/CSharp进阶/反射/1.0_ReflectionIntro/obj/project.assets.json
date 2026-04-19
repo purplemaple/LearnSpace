@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "SqlServerDB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SqlServerDB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SqlServerDB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SqlServerDB/1.0.0": {
+      "type": "project",
+      "path": "../SqlServerDB/SqlServerDB.csproj",
+      "msbuildProject": "../SqlServerDB/SqlServerDB.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "SqlServerDB >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Huang\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\反射\\1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
+      "projectName": "1.0_ReflectionIntro",
+      "projectPath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\反射\\1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
+      "packagesPath": "C:\\Users\\Huang\\.nuget\\packages\\",
+      "outputPath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\反射\\1.0_ReflectionIntro\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Huang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "framework": "net7.0",
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\反射\\SqlServerDB\\SqlServerDB.csproj": {
+              "projectPath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\反射\\SqlServerDB\\SqlServerDB.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.200"
+    },
+    "frameworks": {
+      "net7.0": {
+        "framework": "net7.0",
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

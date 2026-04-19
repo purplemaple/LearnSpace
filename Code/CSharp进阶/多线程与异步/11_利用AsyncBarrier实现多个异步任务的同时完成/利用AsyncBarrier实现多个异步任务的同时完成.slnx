@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="1_AsyncBarrier/1_AsyncBarrier.csproj" />
+  <Project Path="2_AsyncBarrierUpgrade/2_AsyncBarrierUpgrade.csproj" Id="777f0ccc-2f04-4c7e-b34e-2335f74c390d" />
+</Solution>

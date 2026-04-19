@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="1_GeneralSyncMethod/1_GeneralSyncMethod.csproj" />
+  <Project Path="2_Third-PartySyncMethod/2_Third-PartySyncMethod.csproj" />
+  <Project Path="3_ThreadInterrupt/3_ThreadInterrupt.csproj" Id="c4ce0ff1-7495-4397-8618-8e89bb45432e" />
+  <Project Path="4_CancelableProcess/4_CancelableProcess.csproj" Id="ef463da9-b228-43de-a648-07b27ee7d573" />
+  <Project Path="4_ThirdPartyClassLib/4_ThirdPartyClassLib.csproj" Id="9a7985b6-5a59-4755-aed1-688d21b22ee7" />
+  <Project Path="4_ThirdPartyClassLibWrapper/4_ThirdPartyClassLibWrapper.csproj" Id="d8e10a3e-8300-4f09-a051-b7a1fb149fda" />
+</Solution>

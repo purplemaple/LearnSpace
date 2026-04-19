@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1dHyVd2FtDU=",
+  "success": true,
+  "projectFilePath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\多线程与异步\\6_在同步方法中非阻塞地调用异步方法\\6_AsyncLoadForWPF\\6_AsyncLoadForWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huang\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Users\\Huang\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.142\\microsoft.xaml.behaviors.wpf.1.1.142.nupkg.sha512"
+  ],
+  "logs": []
+}

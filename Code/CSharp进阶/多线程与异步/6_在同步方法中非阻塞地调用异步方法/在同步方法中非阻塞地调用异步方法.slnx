@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="1_Blocking/1_Blocking.csproj" Id="6b58861c-0c57-4d22-be71-a4123560e5a5" />
+  <Project Path="2_FireAndForget/2_FireAndForget.csproj" Id="78c38f59-1c58-41d2-ba76-869f57b17b30" />
+  <Project Path="3_CallBack/3_CallBack.csproj" Id="c8cf4484-e494-477b-824c-a59a5398cc62" />
+  <Project Path="4_ContinueWith/4_ContinueWith.csproj" Id="ad1dbbba-b843-40ff-a10b-e7d4218ab1e5" />
+  <Project Path="5_AsyncFactory/5_AsyncFactory.csproj" Id="c8a88048-dcc1-4859-9a46-8bf2e185bc39" />
+  <Project Path="6_AsyncLoadForWPF/6_AsyncLoadForWPF.csproj" Id="54225448-fb76-4239-b305-057ea329c79e" />
+</Solution>

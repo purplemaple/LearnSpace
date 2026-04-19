@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "ac797556a5073edb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3be293e7e81ad88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a8b5eca64e4626f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#进阶/多线程与异步/9_异步任务中的汇报与进度展示.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9_异步任务中的汇报与进度展示"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68102eac5cef2450",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e18c2a79e8f66fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c8c0a61469ee37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2a041cc05c4e1235",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fe0b42dddf87f872",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c000e70215bab4ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "61036a9228e9d672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1271c8d6fdde8cf6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C#进阶/多线程与异步/4_异步任务的超时机制.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "4_异步任务的超时机制 的反向链接列表"
+            }
+          },
+          {
+            "id": "990be51d3ee4051e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C#进阶/多线程与异步/4_异步任务的超时机制.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "4_异步任务的超时机制 的出链列表"
+            }
+          },
+          {
+            "id": "07ba7d7ac780b341",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "58a0dc3357f97b8e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d26166f69b044da8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C#进阶/多线程与异步/4_异步任务的超时机制.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "4_异步任务的超时机制 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0a8b5eca64e4626f",
+  "lastOpenFiles": [
+    "C.md",
+    "C#进阶/多线程与异步/3_异步任务的取消.md",
+    "3_异步任务的取消.md.md",
+    "C#进阶/多线程与异步/9_异步任务中的汇报与进度展示.md",
+    "C#进阶/多线程与异步/4_异步任务的超时机制.md",
+    "C#进阶/多线程与异步/Assets/9_异步任务中的汇报与进度展示/file-20251120021542034.png",
+    "C#进阶/多线程与异步/assets/9_异步任务中的汇报与进度展示/file-20251120021542034.png",
+    "C#进阶/多线程与异步/Assets/9_异步任务中的汇报与进度展示",
+    "C#进阶/多线程与异步/Assets/9_异步任务中的汇报与进度展示/file-20251120021435990.png",
+    "C#进阶/多线程与异步/assets/9_异步任务中的汇报与进度展示/file-20251120021435990.png",
+    "C#进阶/多线程与异步/assets/9_异步任务中的汇报与进度展示",
+    "4_异步任务的超时机制.md.md",
+    "C#进阶/多线程与异步/2_.Net异步.md",
+    "C#进阶/多线程与异步/1_.Net多线程.md",
+    "未命名.base"
+  ]
+}

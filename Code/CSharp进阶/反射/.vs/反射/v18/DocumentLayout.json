@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7118CE07-D93E-4457-9CF8-FB8AA892668D}|1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj|d:\\git repository\\learnspace\\code\\csharp\u8FDB\u9636\\\u53CD\u5C04\\1.0_reflectionintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7118CE07-D93E-4457-9CF8-FB8AA892668D}|1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj|solutionrelative:1.0_reflectionintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17219588-6C78-4BBE-A882-DB8ADC184F94}|2.0_GenericExample\\2.0_GenericExample.csproj|d:\\git repository\\learnspace\\code\\csharp\u8FDB\u9636\\\u53CD\u5C04\\2.0_genericexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17219588-6C78-4BBE-A882-DB8ADC184F94}|2.0_GenericExample\\2.0_GenericExample.csproj|solutionrelative:2.0_genericexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAB722B-94FC-42B5-A737-797BEC1409AC}|SqlServerDB\\SqlServerDB.csproj|d:\\git repository\\learnspace\\code\\csharp\u8FDB\u9636\\\u53CD\u5C04\\sqlserverdb\\reflectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAB722B-94FC-42B5-A737-797BEC1409AC}|SqlServerDB\\SqlServerDB.csproj|solutionrelative:sqlserverdb\\reflectiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAB722B-94FC-42B5-A737-797BEC1409AC}|SqlServerDB\\SqlServerDB.csproj|d:\\git repository\\learnspace\\code\\csharp\u8FDB\u9636\\\u53CD\u5C04\\sqlserverdb\\reflectionprivatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAB722B-94FC-42B5-A737-797BEC1409AC}|SqlServerDB\\SqlServerDB.csproj|solutionrelative:sqlserverdb\\reflectionprivatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAB722B-94FC-42B5-A737-797BEC1409AC}|SqlServerDB\\SqlServerDB.csproj|d:\\git repository\\learnspace\\code\\csharp\u8FDB\u9636\\\u53CD\u5C04\\sqlserverdb\\generictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAB722B-94FC-42B5-A737-797BEC1409AC}|SqlServerDB\\SqlServerDB.csproj|solutionrelative:sqlserverdb\\generictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7118CE07-D93E-4457-9CF8-FB8AA892668D}|1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj|d:\\git repository\\learnspace\\code\\csharp\u8FDB\u9636\\\u53CD\u5C04\\1.0_reflectionintro\\1.0_reflectionintro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7118CE07-D93E-4457-9CF8-FB8AA892668D}|1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj|solutionrelative:1.0_reflectionintro\\1.0_reflectionintro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\2.0_GenericExample\\Program.cs",
+              "RelativeDocumentMoniker": "2.0_GenericExample\\Program.cs",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\2.0_GenericExample\\Program.cs",
+              "RelativeToolTip": "2.0_GenericExample\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T03:16:32.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericTest.cs",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\SqlServerDB\\GenericTest.cs",
+              "RelativeDocumentMoniker": "SqlServerDB\\GenericTest.cs",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\SqlServerDB\\GenericTest.cs",
+              "RelativeToolTip": "SqlServerDB\\GenericTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T03:16:32.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1.0_ReflectionIntro.csproj",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
+              "RelativeDocumentMoniker": "1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
+              "RelativeToolTip": "1.0_ReflectionIntro\\1.0_ReflectionIntro.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T03:16:32.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReflectionPrivateTest.cs",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\SqlServerDB\\ReflectionPrivateTest.cs",
+              "RelativeDocumentMoniker": "SqlServerDB\\ReflectionPrivateTest.cs",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\SqlServerDB\\ReflectionPrivateTest.cs",
+              "RelativeToolTip": "SqlServerDB\\ReflectionPrivateTest.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwBAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T03:16:32.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReflectionTest.cs",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\SqlServerDB\\ReflectionTest.cs",
+              "RelativeDocumentMoniker": "SqlServerDB\\ReflectionTest.cs",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\SqlServerDB\\ReflectionTest.cs",
+              "RelativeToolTip": "SqlServerDB\\ReflectionTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T03:16:32.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\1.0_ReflectionIntro\\Program.cs",
+              "RelativeDocumentMoniker": "1.0_ReflectionIntro\\Program.cs",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u53CD\u5C04\\1.0_ReflectionIntro\\Program.cs",
+              "RelativeToolTip": "1.0_ReflectionIntro\\Program.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T03:16:32.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

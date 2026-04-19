@@ -1,0 +1,15 @@
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\bin\Debug\net10.0\4_TaskCompletionSource.exe
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\bin\Debug\net10.0\4_TaskCompletionSource.deps.json
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\bin\Debug\net10.0\4_TaskCompletionSource.runtimeconfig.json
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\bin\Debug\net10.0\4_TaskCompletionSource.dll
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\bin\Debug\net10.0\4_TaskCompletionSource.pdb
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\4_TaskCompletionSource.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\4_TaskCompletionSource.AssemblyInfoInputs.cache
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\4_TaskCompletionSource.AssemblyInfo.cs
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\4_TaskCompletionSource.csproj.CoreCompileInputs.cache
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\4_TaskCompletionSource.sourcelink.json
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\4_TaskCompletionSource.dll
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\refint\4_TaskCompletionSource.dll
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\4_TaskCompletionSource.pdb
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\4_TaskCompletionSource.genruntimeconfig.cache
+D:\Git Repository\LearnSpace\Code\CSharp进阶\多线程与异步\7_在异步任务中实现同步机制及使用信号量\4_TaskCompletionSource\obj\Debug\net10.0\ref\4_TaskCompletionSource.dll

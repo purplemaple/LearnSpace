@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\11_\u5229\u7528AsyncBarrier\u5B9E\u73B0\u591A\u4E2A\u5F02\u6B65\u4EFB\u52A1\u7684\u540C\u65F6\u5B8C\u6210\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{777F0CCC-2F04-4C7E-B34E-2335F74C390D}|2_AsyncBarrierUpgrade\\2_AsyncBarrierUpgrade.csproj|d:\\git repository\\learnspace\\code\\csharp\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\11_\u5229\u7528asyncbarrier\u5B9E\u73B0\u591A\u4E2A\u5F02\u6B65\u4EFB\u52A1\u7684\u540C\u65F6\u5B8C\u6210\\2_asyncbarrierupgrade\\asyncbarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F0CCC-2F04-4C7E-B34E-2335F74C390D}|2_AsyncBarrierUpgrade\\2_AsyncBarrierUpgrade.csproj|solutionrelative:2_asyncbarrierupgrade\\asyncbarrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{777F0CCC-2F04-4C7E-B34E-2335F74C390D}|2_AsyncBarrierUpgrade\\2_AsyncBarrierUpgrade.csproj|d:\\git repository\\learnspace\\code\\csharp\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\11_\u5229\u7528asyncbarrier\u5B9E\u73B0\u591A\u4E2A\u5F02\u6B65\u4EFB\u52A1\u7684\u540C\u65F6\u5B8C\u6210\\2_asyncbarrierupgrade\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{777F0CCC-2F04-4C7E-B34E-2335F74C390D}|2_AsyncBarrierUpgrade\\2_AsyncBarrierUpgrade.csproj|solutionrelative:2_asyncbarrierupgrade\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsyncBarrier.cs",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\11_\u5229\u7528AsyncBarrier\u5B9E\u73B0\u591A\u4E2A\u5F02\u6B65\u4EFB\u52A1\u7684\u540C\u65F6\u5B8C\u6210\\2_AsyncBarrierUpgrade\\AsyncBarrier.cs",
+              "RelativeDocumentMoniker": "2_AsyncBarrierUpgrade\\AsyncBarrier.cs",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\11_\u5229\u7528AsyncBarrier\u5B9E\u73B0\u591A\u4E2A\u5F02\u6B65\u4EFB\u52A1\u7684\u540C\u65F6\u5B8C\u6210\\2_AsyncBarrierUpgrade\\AsyncBarrier.cs",
+              "RelativeToolTip": "2_AsyncBarrierUpgrade\\AsyncBarrier.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAywMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T04:20:52.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\11_\u5229\u7528AsyncBarrier\u5B9E\u73B0\u591A\u4E2A\u5F02\u6B65\u4EFB\u52A1\u7684\u540C\u65F6\u5B8C\u6210\\2_AsyncBarrierUpgrade\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "2_AsyncBarrierUpgrade\\MainViewModel.cs",
+              "ToolTip": "D:\\Git Repository\\LearnSpace\\Code\\CSharp\u8FDB\u9636\\\u591A\u7EBF\u7A0B\u4E0E\u5F02\u6B65\\11_\u5229\u7528AsyncBarrier\u5B9E\u73B0\u591A\u4E2A\u5F02\u6B65\u4EFB\u52A1\u7684\u540C\u65F6\u5B8C\u6210\\2_AsyncBarrierUpgrade\\MainViewModel.cs",
+              "RelativeToolTip": "2_AsyncBarrierUpgrade\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T04:20:50.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

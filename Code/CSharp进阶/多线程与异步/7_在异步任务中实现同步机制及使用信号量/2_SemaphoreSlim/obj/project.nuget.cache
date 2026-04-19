@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkvXrkCktqE=",
+  "success": true,
+  "projectFilePath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\多线程与异步\\7_在异步任务中实现同步机制及使用信号量\\2_SemaphoreSlim\\2_SemaphoreSlim.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+﻿<Window x:Class="_6_AsyncLoadForWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_6_AsyncLoadForWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        d:DataContext="{d:DesignInstance Type=local:ViewModel}"
+        xmlns:i="http://schemas.microsoft.com/xaml/behaviors">
+
+    
+
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Loaded">
+            <i:InvokeCommandAction Command="{Binding LoadDataCommand}" />
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+
+    <Grid>
+        <DockPanel LastChildFill="False">
+            <TextBlock Text="Data is loading: " />
+            <!--绑定 AsyncRelayCommand 的 IsRunning-->
+            <TextBlock Text="{Binding LoadDataCommand.IsRunning}" />
+        </DockPanel>
+    </Grid>
+</Window>
