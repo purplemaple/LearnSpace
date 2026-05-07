@@ -401,6 +401,273 @@ private AsyncBarrier? _asyncBarrier;
 
 ---
 
+## 5. 升级 AsyncBarrier：处理异常导致的等待卡死问题
+
+前面这个版本已经可以满足正常情况下的异步任务同步需求，也可以通过 `CancellationToken` 来处理用户主动取消。
+
+但是这里还会引发一个问题：
+
+> 如果其中一个任务在到达 `SignalAndWait` 之前就发生异常并提前退出，那么其他已经进入 `SignalAndWait` 的任务就会一直等待。因为从 `AsyncBarrier` 的角度看，它只知道参与者总数，并不知道某个参与者已经失败退出了。
+
+这其实也是 `Barrier` 这类同步结构很容易遇到的问题：它要求所有参与者都要到达屏障点。如果其中一个参与者在屏障之前失败，那么剩下的等待者就可能永远等不到最后一个参与者。
+
+对应示例代码：
+
+- 普通版本：[AsyncBarrier.cs](../../../Code/CSharp进阶/多线程与异步/11_利用AsyncBarrier实现多个异步任务的同时完成/1_AsyncBarrier/AsyncBarrier.cs)
+- 升级版本：[AsyncBarrier.cs](../../../Code/CSharp进阶/多线程与异步/11_利用AsyncBarrier实现多个异步任务的同时完成/2_AsyncBarrierUpgrade/AsyncBarrier.cs)
+
+### 5.1 升级版解决了什么问题
+
+针对原版 `AsyncBarrier` 的升级版本，新增失败传播机制，用于解决某个任务出错提前结束导致其他任务死锁的问题。
+
+主要改动如下：
+
+1. 添加 `broken`、`exception` 字段，记录 Barrier 是否被 Break 以及 Break 的异常信息
+2. 添加 `Break` 方法，允许外部调用以 Break Barrier，并传入异常信息
+3. 在 `SignalAndWait` 方法中添加 `broken` 检查，如果 Barrier 已经被 Break 则立即返回一个失败的 Task，保证等待者能够及时收到异常信息并响应，而不是继续等待其他参与者到达 Barrier
+4. 在 `Break` 方法中添加对所有等待者的通知，确保当 Barrier 被 Break 时，所有等待者都能够及时收到异常信息并响应，而不是继续等待其他参与者到达 Barrier
+5. 添加 `AsyncBarrierBrokenException` 类，作为 Barrier 被 Break 时抛出的异常类型，包含一个可选的 `InnerException` 用于传递具体的错误信息
+
+这里其实可以把它理解为一个“强一致版本”的 `AsyncBarrier`：
+
+```csharp
+/// <summary>
+/// AsyncBarrier（强一致版本）
+///
+/// 特性：
+/// 1. 所有参与者必须成功到达，否则全部失败（Fail-Fast）
+/// 2. 任意异常/取消 → Barrier 立即 Broken
+/// 3. 已经进入 Barrier 等待的任务会收到异常
+/// 4. AsyncBarrier 被标记为 broken ,不可复用（实际上即使原来的版本我们也每次 new 一个新的 AsyncBarrier 从不复用，因此不影响）
+/// </summary>
+```
+
+也就是说，原版 `AsyncBarrier` 更像是“只负责等人到齐”，而升级版 `AsyncBarrier` 则额外负责“只要有人失败，就把失败状态同步给其他所有参与者”。
+
+### 5.2 Break 方法
+
+升级版中新增了一个 `Break` 方法：
+
+```csharp
+public void Break(Exception? ex = null)
+{
+    lock (this.waiters)
+    {
+        if (this.broken) return;
+
+        this.broken = true;
+        this.exception = ex is AsyncBarrierBrokenException abe ? abe : new AsyncBarrierBrokenException("Barrier broken", ex);
+
+        while (this.waiters.Count > 0)
+        {
+            Waiter waiter = this.waiters.Pop();
+            waiter.CompletionSource.TrySetException(this.exception);
+            waiter.CancellationRegistration.Dispose();
+        }
+    }
+}
+```
+
+这个方法的作用很直接：
+
+1. 将 `broken` 标记为 `true`
+2. 保存第一个导致 Barrier Broken 的异常，供后续等待者抛出，保证失败传播的一致性
+3. 把当前已经在等待的参与者全部唤醒，并让它们收到异常
+
+其中这段注释其实已经把它的设计意图说得比较清楚了：
+
+```csharp
+/// <summary>
+/// 保存第一个导致 Barrier Broken 的异常，供后续等待者抛出，保证失败传播的一致性
+/// </summary>
+private Exception? exception;
+```
+
+这里还使用了 `volatile`：
+
+```csharp
+// volatile 关键字确保了对 broken 字段的读写操作具有适当的内存屏障，这样当一个线程将 broken 设置为 true 时，其他线程能够立即看到这个变化，从而正确地响应 Barrier 的状态变化。
+private volatile bool broken;
+```
+
+这里需要注意的是，`volatile` 只是保证可见性，并不替代 `lock`。真正对 `waiters`、`broken`、`exception` 这些状态的修改，还是要靠 `lock` 来保证一致性。
+
+### 5.3 SignalAndWait 中的 broken 检查
+
+升级版 `SignalAndWait` 的关键变化，是在正常等待逻辑之前先判断 Barrier 是否已经被 Break：
+
+```csharp
+/* 
+ * 注意：这里 broken 检查在 CancellationTokenRegistration 注册之前，因此当发生 broken 时，任务会先抛出 AsyncBarrierBrokenException 异常，而非被取消时抛出的 TaskCanceledException 异常。
+ * 因此 Barrier Broken 的优先级高于 Cancellation，不会出现某些任务收到 TaskCanceledException，而另一些任务收到 AsyncBarrierBrokenException 的竞态问题，保证了失败传播的一致性。
+ */
+if (this.broken && this.exception is not null)
+{
+    // The barrier is already broken, so fail immediately.
+    return new ValueTask(Task.FromException(this.exception));
+}
+```
+
+这个检查很重要。
+
+因为有些任务并不是“先进入等待队列，再被唤醒”的；它也可能是在 Barrier 已经 Broken 之后，才刚刚走到 `SignalAndWait`。如果这里不做判断，那么这个后到的任务仍然可能继续进入等待流程。
+
+所以升级版做了两层保护：
+
+- 对于已经在等待的任务：由 `Break()` 主动通知
+- 对于之后才调用 `SignalAndWait()` 的任务：直接返回失败的 `Task`
+
+这样 Barrier 一旦 Broken，至少所有已经进入 Barrier 等待流程的参与者，都能观察到统一的失败状态。
+
+### 5.4 ViewModel 中如何配合使用
+
+升级版中，调用方在捕获到普通异常后，会主动调用 `AsyncBarrier.Break(ex)`：
+
+```csharp
+catch (Exception ex)
+{
+    //在新的 AsyncBarrier 中，Break 方法可以接受一个异常参数，这个异常会被传递给所有等待的任务，使它们能够了解取消的原因
+    AsyncBarrier.Break(ex);
+    Results.Add($"some exception happened in Second job, breaking the barrier. reason: {ex.Message}");
+
+    await Task.Yield(); //确保在 Break 之后再触发 Cancel，这样等待的任务能先感知到 Break 的异常，再感知到 Cancel 的取消，减少竞态的发生
+    _cts.Cancel(); //这里可以选择直接取消所有任务，或者让其他任务通过 AsyncBarrierBrokenException 来感知异常并自行决定是否取消
+}
+```
+
+这里有两个动作：
+
+1. 先 `Break`
+2. 再 `_cts.Cancel()`
+
+先 `Break` 的原因是，要先让已经在 Barrier 中等待的任务收到 `AsyncBarrierBrokenException`。  
+再 `Cancel` 的原因是，要让那些还没走到 Barrier 的任务，也能够尽快结束。
+
+这里的 `await Task.Yield()` 也很有意思。它的目的不是“让代码更异步”，而是：
+
+> 确保在 Break 之后再触发 Cancel，这样等待的任务能先感知到 Break 的异常，再感知到 Cancel 的取消，减少竞态的发生
+
+这里需要注意的是，它只能减少竞态，但不能完全消除竞态。
+
+### 5.5 为什么还要区分 AsyncBarrierBrokenException 和 TaskCanceledException
+
+升级版中，每个任务一般都会同时捕获这两类异常：
+
+```csharp
+catch (AsyncBarrierBrokenException ex)
+{
+    Results.Add($"An exception happened in Third job due to barrier broken. reason: {ex.InnerException?.Message}");
+}
+catch (TaskCanceledException)
+{
+    /* 
+     * 当 AsyncBarrier 已经被 Break 时，如果正好有任务被取消，这里区分语义。
+     * 根据 chatGPT 的回答，即使 IsBroken 使用了 lock 语句，但仍然不能保证时序一致性，仍有可能某个任务先于 break 获取 IsBroken 状态，走了普通的 Cancel，因此只能减少而不能避免竞态的发生
+     */
+    if (AsyncBarrier.IsBroken)
+    {
+        Results.Add("Third job was cancelled due to barrier broken.");
+    }
+    else
+    {
+        Results.Add("Third job was cancelled.");
+    }
+    FinishJobs(false);
+}
+```
+
+这里的含义其实是：
+
+- 如果任务已经进入 Barrier 等待，并且 Barrier 被 Break，那么它更可能收到 `AsyncBarrierBrokenException`
+- 如果任务还在 `Task.Delay` 之类的可取消等待中，那么它也可能先收到 `TaskCanceledException`
+
+所以这里区分这两种异常，不是为了追求绝对精确，而是为了尽量在语义上区分：
+
+- 这是普通取消
+- 这是 Barrier 被 Break 后的连带失败
+
+不过从代码注释里也能看出来，这个区分只能做到“尽量准确”，不能做到“绝对不会错”。
+
+### 5.6 为什么升级版里还引入了共享 CancellationTokenSource
+
+升级版没有继续使用 `IncludeCancelCommand = true` 自动生成的取消命令，而是额外引入了一个共享的 `CancellationTokenSource`：
+
+```csharp
+private CancellationTokenSource? _cts;
+```
+
+初始化逻辑如下：
+
+```csharp
+[MemberNotNull(nameof(_cts))]
+[MemberNotNull(nameof(AsyncBarrier))]
+void InitJobs()
+{
+    if (_cts == null)
+        _cts = new CancellationTokenSource();
+    if (AsyncBarrier is null)
+    {
+        //初始化共享 CancellationTokenSource ，所有传入 AsyncBarrier 的 任务都使用这个源，这样在 CancelAllJobs 时可以更及时地取消所有任务
+        AsyncBarrier = new AsyncBarrier(3);
+        Results.Clear();
+    }
+}
+```
+
+取消按钮则直接调用：
+
+```csharp
+[RelayCommand(CanExecute = nameof(CanCancel))]
+void CancelAllJobs()
+{
+    /*
+     * 注：以上都是 UI Command 层取消，如果任务还没进入 await （比如 CPU 密集型操作），Cancel 不一定立即生效。
+     * 因此引入一个共享的 CancellationTokenSource，在 InitJobs 时创建，在 FinishJobs 时释放，这样所有任务都共享同一个 CancellationToken，可以更及时地响应取消请求。
+     */
+    _cts?.Cancel();
+}
+```
+
+这样做的好处是：
+
+- 三个任务共用一个 `CancellationToken`
+- 用户点击取消按钮时，可以统一取消
+- 某个任务异常时，也可以顺手 `_cts.Cancel()` 让其他任务尽快结束
+
+当然，这里也还是那个老问题：`CancellationToken` 只是协作式取消，它不是强制中断。因此它的意义在于“让其他任务尽快感知停止”，而不是“保证它们立刻停下”。
+
+### 5.7 升级版的优劣势
+
+#### 优点
+
+- 解决了“某个任务在 Barrier 前失败，其他任务一直卡住”的问题
+- 已经进入等待的任务可以及时收到异常信息
+- 后续才调用 `SignalAndWait` 的任务也会立即失败，不会继续等待
+- 失败原因可以通过 `InnerException` 继续向外传递
+- 比原版更适合“所有参与者必须共同成功，否则整体失败”的场景
+
+#### 缺点
+
+- 代码复杂度明显高于原版
+- Barrier 一旦 Broken 就不可复用
+- `Break` 与 `Cancel` 的先后顺序仍然可能产生竞态，因此有些任务收到的是 `AsyncBarrierBrokenException`，有些任务收到的是 `TaskCanceledException`
+- 调用方必须主动在异常时调用 `Break`，否则 Barrier 本身并不知道有人已经失败退出
+
+### 5.8 总结
+
+普通版 `AsyncBarrier` 更适合演示和处理“所有任务最终都会到达屏障点”的场景。
+
+而升级版 `AsyncBarrier` 更适合下面这类情况：
+
+- 这些异步任务是一个整体
+- 任何一个参与者失败，都应该让其他参与者尽快结束等待
+- 需要把失败原因传递给其他等待者
+
+也就是说，升级版不是在让 `AsyncBarrier` “更通用”，而是在让它“更强一致”。  
+它解决了原版最明显的死锁风险，但代价是实现更复杂，并且 Broken 后不再适合复用。
+
+---
+
 ## 思考：
 	1. 与标准库中提供的`Barrier`有什么不同？
 	2. `Barrier`与`Task.WhenAll`有什么不同
