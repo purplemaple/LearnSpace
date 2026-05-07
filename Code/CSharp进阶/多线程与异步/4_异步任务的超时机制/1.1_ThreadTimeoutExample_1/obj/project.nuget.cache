@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "eAfu5qpTudOZ11UPLMzyzWStvWwmvq1Eh0U4FR4CSXDUsXpkzwp3InmYOE3I0jIqcRqZpfaL9cKMh8ElEBsJSg==",
-  "success": true,
-  "projectFilePath": "F:\\LearnSpace\\Code\\C#进阶\\多线程与异步\\4_异步任务的超时机制\\1.1_ThreadTimeoutExample_1\\1.1_ThreadTimeoutExample_1.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}

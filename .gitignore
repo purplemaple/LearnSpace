@@ -1,3 +1,16 @@
-Note/.obsidian/workspace.json
-Note/.obsidian/workspace-mobile.json
+# Visual Studio local state
+.vs/
+**/.vs/
+
+# .NET build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Obsidian local vault/app state
+.obsidian/
+**/.obsidian/
+
+# Local/private documents
 /Resume/

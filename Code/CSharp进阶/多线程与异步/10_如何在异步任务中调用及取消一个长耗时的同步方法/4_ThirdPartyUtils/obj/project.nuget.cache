@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "KijbskPPvMA=",
-  "success": true,
-  "projectFilePath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\多线程与异步\\如何在异步任务中调用及取消一个长耗时的同步方法\\4_ThirdPartyUtils\\4_ThirdPartyClassLib.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}

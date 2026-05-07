@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "hbs9D/M6iHg=",
-  "success": true,
-  "projectFilePath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\多线程与异步\\6_在同步方法中非阻塞地调用异步方法\\2_FireAndForget\\2_FireAndForget.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}

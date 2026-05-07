@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "ysjYPR66gNY=",
-  "success": true,
-  "projectFilePath": "D:\\Git Repository\\LearnSpace\\Code\\CSharp进阶\\多线程与异步\\10_如何在异步任务中调用及取消一个长耗时的同步方法\\2_Third-PartySyncMethod\\2_Third-PartySyncMethod.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}
